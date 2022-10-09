@@ -1,4 +1,4 @@
-# tds-scidac.github.io
+# charmnet-mmicc.github.io
 Web presence for the Tokamak Disruption Simulation SciDAC project. This repo contains the TDS website [MkDocs](https://www.mkdocs.org/) sources.
 
 To make changes to the website you will need an install of Python version >= 3.6.9 with the following libraries:
