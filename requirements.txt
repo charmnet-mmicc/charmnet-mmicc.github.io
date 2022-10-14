@@ -4,3 +4,4 @@ PyYAML
 mkdocs-exclude-search
 mkdocs-bibtex
 mkdocs-macros-plugin
+jinja2<3.1.0

@@ -1,5 +1,5 @@
-site_name: TDS
-site_url: https://tds-scidac.github.io
+site_name: CHaRMNET
+site_url: https://charmnet-mmicc.github.io
 docs_dir: 'src'
 
 markdown_extensions:
@@ -8,7 +8,7 @@ markdown_extensions:
 - footnotes
 - attr_list  # Allow us to add link attributes
 
-#repo_url: https://github.com/tds-scidac/tds-scidac.github.io 
+#repo_url: https://github.com/charmnet-mmicc/charmnet-mmicc.github.io 
 #remote_name: origin
 
 nav:
