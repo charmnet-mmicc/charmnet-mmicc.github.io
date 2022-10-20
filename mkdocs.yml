@@ -1,5 +1,5 @@
-site_name: TDS
-site_url: https://tds-scidac.github.io
+site_name: CHARMNET
+site_url: https://charmnet-mmicc.github.io
 docs_dir: 'src'
 
 markdown_extensions:
@@ -14,24 +14,25 @@ markdown_extensions:
 nav:
 - Home: index.md
 - News: news.md
-- Physics:
-  - 'Control & flux surface destruction': cont-fmr.md
-  - 'Nonlinear MHD leading into disruption': pixie3d.md
-  - 'Thermal quench of core plasmas': gts.md
-  - 'Thermal quench of edge/boundary plasmas': bout.md
-  - 'Collisional-radiative modeling of disrupting plasma': cr.md
-  - 'Kinetic modeling of plasma-wall and plasma-neutral interaction': sheath.md 
-  - 'Multifluid modeling of plasma/neutral interaction and VDE': drekar.md
-  - 'Integrated runaway modeling for current quench': RAMc.md
-- Computing:
-  - 'Algorithmic innovation for anisotropic transport': anisotropic.md
-  - 'MFEM-based implicit MHD solver with AMR': mfem.md
-  - 'PETSc-p4est relativistic Fokker-Planck-Boltzmann solver': fokkerplanck.md
-  - 'Scalable hybridized DG and exponential DG for fluid models': hdg.md
-  - 'Uncertainty Quantification': uq.md
-  - 'Machine Learning': ml.md
-- Publications: publications.md
-- Gallery: gallery.md
+- Motivation: mission.md
+- Algorithms:
+  - 'Multi-Scale Models': cont-fmr.md
+  - 'Simulation Acceleration': pixie3d.md
+  - 'Self-Consistency': gts.md
+  - 'Beyond Forward Simulation': bout.md
+#  - 'Collisional-radiative modeling of disrupting plasma': cr.md
+#  - 'Kinetic modeling of plasma-wall and plasma-neutral interaction': sheath.md 
+#  - 'Multifluid modeling of plasma/neutral interaction and VDE': drekar.md
+#  - 'Integrated runaway modeling for current quench': RAMc.md
+#- Computing:
+#  - 'Algorithmic innovation for anisotropic transport': anisotropic.md
+#  - 'MFEM-based implicit MHD solver with AMR': mfem.md
+#  - 'PETSc-p4est relativistic Fokker-Planck-Boltzmann solver': fokkerplanck.md
+#  - 'Scalable hybridized DG and exponential DG for fluid models': hdg.md
+#  - 'Uncertainty Quantification': uq.md
+#  - 'Machine Learning': ml.md
+#- Publications: publications.md
+- Calender: calender.md
 - About: about.md
 
 theme:
@@ -55,5 +56,5 @@ plugins:
         - index.md
 
 
-google_analytics: ['UA-101697-3', 'https://tds-scidac.github.io/']
+google_analytics: ['UA-101697-3', 'https://charmnet-mmicc.github.io/']
 
