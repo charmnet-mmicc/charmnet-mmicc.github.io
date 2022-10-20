@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <meta name="keywords" content="Tokamak Disruption Simulation, TDS">
+        <meta name="google-site-verification" content="45K56TawSdzbgy-uDtfJdYwp7zaVdL3fIAGYt869wwU" />
+<!--	<title></title>  -->
+        <title>TDS - Tokamak Disruption Simulation SciDAC</title>
+
+        <link href="../css/bootstrap-mfem.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link href="../css/highlight.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        
+    </head>
+
+    <body>
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <!-- Main title -->
+            <a class="navbar-brand" href="https://charmnet-mmicc.github.io">CHaRMNET</a>
+        </div>
+
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+            <!-- Main navigation -->
+            <ul class="nav navbar-nav">
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../news/">News</a>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../mission/">Motivation</a>
+                </li>
+            
+            
+            
+            
+            
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Algorithms <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    
+                        
+                            <li >
+                                 <a href="../cont-fmr/">Multi-Scale Models</a>
+                            </li>
+                        
+                    
+                        
+                            <li >
+                                 <a href="../pixie3d/">Simulation Acceleration</a>
+                            </li>
+                        
+                    
+                        
+                            <li >
+                                 <a href="../gts/">Self-Consistency</a>
+                            </li>
+                        
+                    
+                        
+                            <li >
+                                 <a href="../bout/">Beyond Forward Simulation</a>
+                            </li>
+                        
+                    
+                    </ul>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../calender/">Calender</a>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../about/">About</a>
+                </li>
+            
+            
+            
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+            
+            <div class="col-md-12" role="main">
+
+<h1 id="gallery">Gallery</h1>
+<p>This page collects results from various simulations from the TDS team. Most pictures are linked to simulation movies.</p>
+<p><br>
+<center></p>
+<div class="col-md-4">
+<p><a href="../img/gallery/144981_pt1_t200-930.mp4"><img alt="" src="../img/gallery/bout.png" /></a>
+<em>Pressure perturbation increases ~5x and spreads from near separatrix to the entire domain. (left) the total pressure; (right) normalized pressure.</em></p>
+<hr />
+<p><a href="../img/gallery/Qpar_odt.mp4"><img alt="" src="../img/gallery/Qpar_odt.png" /></a>
+<em>TQ simulations with and w/o mitigation (MGI). MGI stands for Massive Gas Injection. Simulations suggest that MGI could reduce the peak heat load on divertor target and spreads it over a wider wetting area.</em></p>
+<hr />
+<p><a href="../img/gallery/Meff.mp4"><img alt="" src="../img/gallery/Meff.png" /></a>
+<em>The 3D structure of the effective magnetic mirror ratio $M_{eff}$ in the presence of open stochastic magnetic fields. The black line shows an example open magnetic field line. Red and blue colors represent regions of magnetic wells ($M_{eff} &gt; 1$) and magnetic hills ($M_{eff} &lt; 1$), respectively. Charged particles can be trapped in the magnetic well region by the magnetic mirror force.</em></p>
+<hr />
+<p><a href="../img/gallery/Density_Potential.mp4"><img alt="" src="../img/gallery/Density_Potential.png" /></a>
+<em>The temporal evolution of (left) electron density and (right) electrostatic potential in the presence of open stochastic magnetic fields during the thermal quench. Upper figures show the case where the $\mathbf{E}\times\mathbf{B}$ drift motion is ignored, whereas lower figures show the case where the ExB drift motion is included.</em></p>
+<hr />
+<p><img alt="" src="../img/gallery/drekar/Elman_Sparse_Grid.png" />
+<em>Replace "direct solution" of algebraic system with surrogate approximation using sparse grid collocation (interpolation) in
+a free-boundary Grad-Shafranov solver.</em></p>
+<hr />
+<p><img alt="" src="../img/gallery/rmp.png" />
+<em>The Poincare plot can be generated using HenonNets 10x faster than conventional methods while achieving comparable accuracy.</em></p>
+<hr />
+<p><a href="../img/gallery/2d-ic.mp4"><img alt="" src="../img/gallery/2d-ic.png" /></a>
+<em>2D island coalescence using a very high-order HDG scheme. The current sheet breaks into plasmoids.</em></p>
+<hr />
+<p><a href="../img/gallery/3d-ic.mp4"><img alt="" src="../img/gallery/3d-ic.png" /></a>
+<em>3D island coalescence using a very high-order HDG scheme. A current sheet is forming in the center of the domain.</em></p>
+<hr />
+<p><img alt="" src="../img/gallery/hp-HDG.png" />
+<em>hp-adaptive HDG solver</em></p>
+</div>
+<div class="col-md-5">
+<p><a href="../img/gallery/E_1.69chiu.mp4"><img alt="" src="../img/gallery/rfp_plot.png" /></a></p>
+<p><em>PETSc-p4est-based relativistic Fokker-Planck solver can capture features in distribution functions dynamically.</em></p>
+<hr />
+<p><a href="../img/gallery/res1e-6.mp4"><img alt="" src="../img/gallery/mfem1.png" /></a></p>
+<p><em>MFEM-based MHD solver resolves multi-scale features involving a thin current sheet and plasmoid instability.</em></p>
+<hr />
+<p><img alt="" src="../img/gallery/drekar/3D_ITER_Plasma_Region_Mesh.png" />
+<em>Unstructured FE hex mesh of ITER plasma domain and solid wall using Cubit. Cubit provides both all hexahedron and tetrahedron capabilities. Capabilities for automatic uniform refinement and parallel portioning are available. As well soon a uniform refinement that snaps the element edges to the geometry will also be available.</em></p>
+<hr />
+<video controls preload="metadata" width="100%">
+    <source src="../img/gallery/drekar/VDE_movie.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+*An initial VDE simulation on 3D ITER geometry usign a VMS compressible resistive MHD formulation in Drekar.*
+
+<hr />
+<p><img alt="" src="/img/gallery/drekar/Neutral_Expansion_in_core.png" />
+<em>Schematic diagram of an idealized insertion of a neutral cloud in the core region for disruption mitigation. Inside the separatrix a
+high density neutral cloud of Ar ionizes as it expands into a hot (10keV) Deuterium plasma environment.</em></p>
+<hr />
+<p><a href="../img/gallery/Two_Stream.mp4"><img alt="" src="../img/gallery/Two_Stream.png" /></a>
+<em>Particle simulation of two-stream instability with three different weight schemes: (left) full-f, (middle) generalized delta-f, and (right) typical delta-f. Upper and lower figures show the motion of electron markers and the evolution of the total electron distribution function in the phase-space ($x-v$), respectively. Whereas the typical delta-f scheme (right) fails after a short time, the newly developed generalized delta-f scheme (middle) successfully simulates the same result as the full-f (left) does.</em></p>
+<hr />
+<p><a href="../img/gallery/kh-mhd.mp4"><img alt="" src="../img/gallery/kh-mhd.png" /></a>
+<em>3D Kelvin-Helmholtz instability of MHD</em></p>
+<hr />
+<p><img alt="" src="../img/gallery/cr_runaway_collage.png" />
+<em>Collisional-radiative modeling related to runaway electrons</em></p>
+</div>
+<div class="col-md-3">
+<hr />
+<p><a href="../img/gallery/bpnch-hall-mhd-unif-rho-chi_par_1e3.mp4"><img alt="" src="../img/gallery/bpnch-hall-mhd.png" /></a>
+<em>A full reconnection event induced by a (1,1) kink instability of a Bennet pinch equilibrium in helical geometry with $\chi_\parallel/\chi_\perp \sim 10^{7}$.</em></p>
+<hr />
+<p><a href="../img/pixie3d/11-visc-poinc.mp4"><img alt="" src="../img/pixie3d/11-poinc.png" /></a>
+<em>Magnetic topology in excerpt of (1,1) kink simulation without thermal diffusion. As the (1,1) mode grows the core splits and gets expelled while magnetic stochasticity has set in at the outer edge. Towards the end, isolated islands reform but nothing remains from the original core.</em></p>
+<hr />
+<p><a href="../img/pixie3d/chipar-poinc.mp4"><img alt="" src="../img/pixie3d/A1.png" /></a>
+<em>Magnetic topology in excerpt of (1,1) kink simulation with thermal diffusion. The mode grows and splits the core. Magnetic stochasticity sets in outside the core.<br> The core eventually reheals forming a transport barrier.</em></p>
+<hr />
+<p><a href="../img/pixie3d/db-poinc.mp4"><img alt="" src="../img/pixie3d/B1.png" /></a>
+<em>Magnetic topology in excerpt of the double tearing simulation. Lots of different islands form due to multiple double tearing surfaces of higher order. The edge develops stochasticity while the core and some isolated islands survive.</em></p>
+<hr />
+<p><a href="../img/gallery/epi2-Cr5-1em7.mp4"><img alt="" src="../img/gallery/kh-euler.png" /></a>
+<em>3D Kelvin-Helmholtz instability for Euler equations. An exponential time integrator is used along with a high-order DG scheme.</em></p>
+<hr />
+<p><a href="../img/gallery/KelvinHelmholtzInstabilityForShallowWaterOnTheEarth.mp4"><img alt="" src="../img/gallery/hdg-dg-kh.png" /></a>
+<em>3D Kelvin-Helmholtz instability for shallow water equations on a sphere. A IMEX integrator is used along with a high-order HDG-DG scheme.</em></p>
+</div>
+<p></center></p>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {equationNumbers: {autoNumber: "all"}}, tex2jax: {inlineMath: [['$','$']]}});</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML"></script></div>
+
+            
+        </div>
+
+        <footer class="footer">
+           <div class="container">
+               <p class="text-muted alignright">Approved for public release; distribution is unlimited.</p>
+              <p class="text-muted alignleft">
+                  Developed by the <a href="/about/">TDS team</a> at
+                  <a href="https://www.lanl.gov/">LANL</a> based on
+                  <a href="https://mfem.org/">MFEM</a> webpage template.</p>
+           </div>
+        </footer>
+        
+        <script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script>
+        <script src="../js/base.js"></script>
+        <script src="../js/retina.min.js"></script>
+        <!-- <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script> --> <!-- file missing in repo -->
+        <script src="../search/main.js"></script>
+    </body>
+</html>
