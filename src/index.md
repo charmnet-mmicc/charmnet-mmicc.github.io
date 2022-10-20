@@ -1,74 +1,63 @@
 <div class="col-md-6" markdown="1">
 
-![](img/tds_full.png)
+![](img/charmnet_logo.png)
 
-# Tokamak Disruption Simulation (TDS) SciDAC center
+# Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (CHaRMNET) 
 
-The primary objective of the TDS Center is to help establish the
-physics basis for effective disruption mitigation in a reactor-size
-tokamak through large-scale simulations, using the largest computers
-available.  To reach this ambitious goal, the TDS Center aims to
-simultaneously advance the frontiers of disruption physics and
-advanced simulation.  In particular, the TDS Team develops
-cutting-edge _scalable_, _adaptive_, _high-order_ algorithms for
-tokamak simulations.
+The center is motivated by the need to develop accurate long-term modeling of plasma systems for fusion energy and national security that are suitable for optimization and uncertainty quantification at the engineering scale.  Led by Michigan State University and Los Alamos National Laboratory, CHaRMET brings together national leaders from five universities and four national labs in the mathematical modeling of plasmas.  The center seeks to build a first-of-its-kind holistic approach that will exploit structure within models to mitigate the curse of dimensionality and to bridge a wide range of length and time scales in plasma science. The curse of dimensionality is a critical challenge that is pervasive throughout computational science and refers to the observation that the resources needed to solve a problem on a computer scale exponentially with the dimension of the problem.  Fundamental plasma models are seven dimensional and are presently computationally intractable (with existing mathematical methods and computational resources) to drive optimization and uncertainty quantification at the engineering scale of plasma systems.  
 
 </div><div class="col-md-6 news-table" markdown="1">
 
 ## Highlights
 
-* Advanced scalable algorithms design and development for tokamak simulations
-* Extended magnetohydrodynamic simulation of flux surface breakup and global field line stochasticization
-* Transport (fully kinetic, gyrokinetic, and gyrofluid) calculations of particle and energy in 3D magnetic fields
-* Multi-fluid and kinetic calculation of plasma/neutral and plasma/pellet interaction
-* Collisional-radiative modeling of a disrupting plasma with high-Z impurities and runaway electrons
-* Self-consistent kinetic calculations of runaway generation and transport
+
+* A synergistic theoretical and data-driven approach to hierarchical modeling, including a wide range of surrogates
+* Next-generation multi-resolution, mixed-model algorithms that provide a self-adaptive structure in terms of the methods and the models
+* Structure and asymptotic preserving algorithms that enforce model consistency throughout the model hierarchy. 
 
 
 ## News
 
 Date             | Message
 ---------------- | -----------------------------------------------------------------
-Jun 22, 2022     | TDS team members will give invited talks at [APS-DPP](https://engage.aps.org/dpp/meetings/annual-meeting). 
+Oct 20, 2022     | DOE is now accepting applications for  [CSGF](htpps://www.krellinst.org/csgf/).
+Oct 18, 2022     | CHaRMNET team members gave talks in [APS DPP](https://engage.aps.org/dpp/meetings/annual-meeting).
+Sep 26, 2022     | CHaRMNET team members gave talks in [SIAM MDS](https://www.siam.org/conferences/cm/conference/mds22).
 Jun 21, 2022     | Luis Chacon (LANL) was awarded the [EO Lawrence Award](https://science.osti.gov/lawrence).
-Apr 11, 2022     | Luis Chacon (LANL) organized 2 sessions at the [CMCIM](https://easychair.org/smart-program/CM2022/2022-04-04.html).
-Apr 11, 2022     | John Shadid (SNL) co-chairs the [CMCIM](https://easychair.org/smart-program/CM2022/).
-Apr 4, 2022      | TDS team members attend [Sherwood Fusion Theory Conference](https://www.sherwoodtheory.org/sw2022/index.php). 
 
-## Ten TDS partner institutions
+## Nine CHaRMNET partner institutions
 
 &nbsp;
 
 <div class="row">
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="http://www.lanl.gov"><img src="img/logos/LANL.png" alt="LANL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:27%;padding:0"><a href="http://www.msu.edu"><img src="img/logos/MSU.png" alt="MSU logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:20%;padding:0"><a href="http://www.sandia.gov"><img src="img/logos/SNL.png" alt="SNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:42%;padding:0"><a href="http://www.lanl.gov"><img src="img/logos/LANL_2.png" alt="LANL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="http://www.llnl.gov"><img src="img/logos/LLNL.png" alt="LLNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:18%;padding:0"><a href="http://www.uw.edu"><img src="img/logos/Washington.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 &nbsp;
 
 <div class="row">
-<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="http://www.anl.gov"><img src="img/logos/ANL.png" alt="ANL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:4%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:20%;padding:0"><a href="http://www.pppl.gov"><img src="img/logos/PPPL.png" alt="PPPL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:38%;padding:0"><a href="http://www.ufl.edu"><img src="img/logos/Florida.png" alt="UFL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.colorado.edu"><img src="img/logos/UCBoulder.png" alt="UCB logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" alt="UDEL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:38%;padding:0"><a href="http://www.ornl.gov"><img src="img/logos/ORNL.png" alt="UMASS logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 &nbsp;
 
 <div class="row">
-<div class="col-xs-6 col-md-6" style="width:34%;padding:0"><a href="http://www.vt.edu"><img src="img/logos/VT.png" alt="VT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:13%;padding:0"><a href="http://www.columbia.edu"><img src="img/logos/Columbia.png" alt="Columbia logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:2%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:13%;padding:0"><a href="http://www.umd.edu"><img src="img/logos/Maryland.png" alt="UMD logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="http://www.utexas.edu"><img src="img/logos/Texas.png" alt="UTexas logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="http://www.sandia.gov"><img src="img/logos/SNL.png" alt="SNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:42%;padding:0"><a href="http://www.llnl.gov"><img src="img/logos/LLNL_2.webp" alt="LLNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:18%;padding:0"><a href="http://www.umassd.edu"><img src="img/logos/UMASS.png" alt="UMASS logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 </div><div class="col-md-12 bottom"></div>
