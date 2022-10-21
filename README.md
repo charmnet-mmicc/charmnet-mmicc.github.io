@@ -1,5 +1,5 @@
 # charmnet-mmicc.github.io
-Web presence for the Tokamak Disruption Simulation SciDAC project. This repo contains the TDS website [MkDocs](https://www.mkdocs.org/) sources.
+Web presence for the CHaRMNET MMICC project. This repo contains the CHaRMNET website [MkDocs](https://www.mkdocs.org/) sources.
 
 To make changes to the website you will need an install of Python version >= 3.6.9 with the following libraries:
 
@@ -27,4 +27,4 @@ To make changes to the website you will need an install of Python version >= 3.6
 - preview locally with `mkdocs serve` (Windows users may need to specify a port, such as `mkdocs serve --dev-addr 127.0.0.1:4000`),
 - publish with `mkdocs gh-deploy`.
 
-*This website is built upon the template from the [mfem](https://mfem.org) website hosted at https://github.com/mfem/web. We thank the mfem team for their help and suggestions.*
+*This website is built upon the template from the [mfem](https://mfem.org) website hosted at https://github.com/mfem/web. We thank the mfem and TDS teams for their help and suggestions.*

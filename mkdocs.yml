@@ -1,4 +1,4 @@
-site_name: CHARMNET
+site_name: CHaRMNET
 site_url: https://charmnet-mmicc.github.io
 docs_dir: 'src'
 
@@ -8,7 +8,7 @@ markdown_extensions:
 - footnotes
 - attr_list  # Allow us to add link attributes
 
-#repo_url: https://github.com/tds-scidac/tds-scidac.github.io 
+#repo_url: https://github.com/charmnet-mmicc/charmnet-mmicc.github.io 
 #remote_name: origin
 
 nav:
@@ -17,20 +17,9 @@ nav:
 - Motivation: mission.md
 - Algorithms:
   - 'Multi-Scale Models': cont-fmr.md
-  - 'Simulation Acceleration': pixie3d.md
+  - 'Simulation Acceleration': acceleration.md
   - 'Self-Consistency': gts.md
   - 'Beyond Forward Simulation': bout.md
-#  - 'Collisional-radiative modeling of disrupting plasma': cr.md
-#  - 'Kinetic modeling of plasma-wall and plasma-neutral interaction': sheath.md 
-#  - 'Multifluid modeling of plasma/neutral interaction and VDE': drekar.md
-#  - 'Integrated runaway modeling for current quench': RAMc.md
-#- Computing:
-#  - 'Algorithmic innovation for anisotropic transport': anisotropic.md
-#  - 'MFEM-based implicit MHD solver with AMR': mfem.md
-#  - 'PETSc-p4est relativistic Fokker-Planck-Boltzmann solver': fokkerplanck.md
-#  - 'Scalable hybridized DG and exponential DG for fluid models': hdg.md
-#  - 'Uncertainty Quantification': uq.md
-#  - 'Machine Learning': ml.md
 #- Publications: publications.md
 - Calender: calender.md
 - About: about.md
