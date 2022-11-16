@@ -6,7 +6,7 @@ CHaRMNET has a wide range of post doc opportunity’s across the center.  Many o
 
 - Michigan State University (Christlieb) -  (up to 3 [post doc positions](https://careers.msu.edu/en-us/job/512952/research-associatefixed-term))
 
-- University of Colorado Bolder (Bortz)  – (up to 2 [post doc positions](https://jobs.colorado.edu/jobs/JobDetail/PostDoctoral-Research-Associate/44188)
+- University of Colorado Bolder (Bortz)  – (up to 2 [post doc positions](https://jobs.colorado.edu/jobs/JobDetail/PostDoctoral-Research-Associate/44188))
 
 
 
