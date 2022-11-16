@@ -13,7 +13,7 @@ markdown_extensions:
 
 nav:
 - Home: index.md
-- News: news.md
+##- News: news.md
 - Motivation: mission.md
 - Algorithms:
   - 'Multi-Scale Models': cont-fmr.md
@@ -22,8 +22,8 @@ nav:
   - 'Beyond Forward Simulation': bout.md
 ##- Publications: publications.md
 - Calender: calender.md
-- About: about.md
 - Opening: opening.md
+- About: about.md
 #- Opening: opening.md
 
 theme:
