@@ -8,13 +8,12 @@ CHaRMNET has a wide range of post doc opportunity’s across the center.  Many o
 
 - University of Colorado Bolder (Bortz)  – (up to 2 [post doc positions](https://jobs.colorado.edu/jobs/JobDetail/PostDoctoral-Research-Associate/44188))
 
+- University of Washington Seattle (Hu) – (1 [post doc position](https://www.mathjobs.org/jobs/list/20601), please specify in the Cover Letter that you would like to work with Prof. Hu.)
 
 
 **Coming soon**:
 
 - Los Alamos National Lab (Chacon)  - (1 post doc position)
-
-- University of Washington Seattle (Hu) – (1 post doc position)
 
 - University of Delaware (Qiu) – (1 post doc position)
 
