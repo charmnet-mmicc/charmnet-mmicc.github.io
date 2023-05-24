@@ -1,6 +1,6 @@
 ## About CHARMNET
 
-Our Center is supported by the the Advanced Scientific Computing Research program of the U.S. Department of Energy.
+Our Center is supported by the the Advanced Scientific Computing Research program of the U.S. Department of energy.
 
 ----
 
