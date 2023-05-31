@@ -20,9 +20,9 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date             | Message
 ---------------- | -----------------------------------------------------------------
-Jul 23, 2023	 | CHaRMNET team members will attend and give talks in [17th USNCCM](https://www.usacm.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=58&Itemid=115&year=2023&month=07&day=23&title=17th-us-national-congress-on-computational-mechanics&uid=b15383b96fc7e4c781329611608bb6ed)
-May 21, 2023	 | CHaRMNET team members gave talks in [50th ICOPS](http://ece-events.unm.edu/icops2023/)
-Mar 01, 2023	 | CHaRMNET team members gave talks in [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23)
+Jul 23, 2023	   | CHaRMNET team members will attend and give talks in [17th USNCCM](https://www.usacm.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=58&Itemid=115&year=2023&month=07&day=23&title=17th-us-national-congress-on-computational-mechanics&uid=b15383b96fc7e4c781329611608bb6ed)
+May 21, 2023	   | CHaRMNET team members gave talks in [50th ICOPS](http://ece-events.unm.edu/icops2023/)
+Mar 01, 2023	   | CHaRMNET team members gave talks in [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23)
 Oct 20, 2022     | DOE is now accepting applications for  [CSGF](htpps://www.krellinst.org/csgf/).
 Oct 18, 2022     | CHaRMNET team members gave talks in [APS DPP](https://engage.aps.org/dpp/meetings/annual-meeting).
 Sep 26, 2022     | CHaRMNET team members gave talks in [SIAM MDS](https://www.siam.org/conferences/cm/conference/mds22).
