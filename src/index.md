@@ -11,8 +11,8 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 ## Highlights
 
 
-* A synergistic theoretical and data-driven approach to hierarchical modeling, including a wide range of surrogates
-* Next-generation multi-resolution, mixed-model algorithms that provide a self-adaptive structure in terms of the methods and the models
+* A synergistic theoretical and data-driven approach to hierarchical modeling, including a wide range of surrogates.
+* Next-generation multi-resolution, mixed-model algorithms that provide a self-adaptive structure in terms of the methods and the models.
 * Structure and asymptotic preserving algorithms that enforce model consistency throughout the model hierarchy. 
 
 
