@@ -1,6 +1,7 @@
 # charmnet-mmicc.github.io
 Web presence for the CHaRMNET MMICC project. This repo contains the CHaRMNET website [MkDocs](https://www.mkdocs.org/) sources.
 
+
 To make changes to the website you will need an install of Python version >= 3.6.9 with the following libraries:
 
 - use MkDocs v1.0.4 with Markdown v3.0 and the latest PyYAML and mkdocs-exclude-search:
