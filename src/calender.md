@@ -2,6 +2,9 @@
 
 <img width=400px, style="margin:-20px"> | |
 --------------------|-----------------------------------------------------------------
+Dec 04, 2023 | CHeRMNET will hold annual meeting at MSU. 
+Sep 27, 2023 | CHaRMENT team members held virtual meeting to prepare for the annual PI meeting and update the recent progress.
+Aug 30, 2023 | CHaRMENT team members held virtual meeting to discuss the recent team progress and Dr. Youngsoo Choi gave an talk titled "Interpretable & Physic-guided data-driven methods".
 Aug 20, 2023 | CHaRMNET team members attend [ICIAM 2023 Tokyo](https://iciam.org/event/iciam-2023-%E2%80%93-tokyo). Dr. Youngsoo Choi, Dr. Lee Ricketson and Dr. David Bortz will give invited talks. 
 Jul 23, 2023 | CHaRMNET team members attend and meet at [17th U. S. National Congress on Computational Mechanics 2023](https://www.usacm.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=58&Itemid=115&year=2023&month=07&day=23&title=17th-us-national-congress-on-computational-mechanics&uid=b15383b96fc7e4c781329611608bb6ed) and give 5 presentations on the meeting.
 Jun 05, 2023 | CHaRMNET team member Dr. John Jakeman gave a talk titled ["Machine learning and uncertainty quantification for coupled multi-physics, multi-scale and multi-fidelity modelling"](https://coupled2023.cimne.com/event/area/d40b71ee-2df5-11ed-8e5b-000c29ddfc0c) at Coupled 2023 Conference 2 minisymposium sessions, Crete, Greece.
