@@ -3,13 +3,15 @@
 ### Year 2024
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
-Feb 08, 2024        | CHaRMNET director [Dr. Andrew Christlieb talks milestone in nuclear fusion energy on WILX 10 News](https://www.wilx.com/2024/02/08/msu-professor-talks-milestone-nuclear-fusion-energy/) 
-
+May 01, 2024      | Dan Messenger (CU Boulder) is selected as a Director's postdoc fellow at LANL. Dan will work with Marc Klasky and Luis Chacon on the intersection of dynamical systems, data science, and plasma physics. He will remain a part of the CHaRMNET team.
+Feb 08, 2024      | CHaRMNET director [Dr. Andrew Christlieb talks milestone in nuclear fusion energy on WILX 10 News](https://www.wilx.com/2024/02/08/msu-professor-talks-milestone-nuclear-fusion-energy/).
+Jan 01, 2024      | Josh Burby starts a new position in the Department of Physics at University of Texas at Austin as an Assistant Professor. He will remain a part of the CHaRMNET team, concentrating on the foundations of theoretical plasma dynamics.
 
 ### Year 2023
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
-Dec 04, 2023        | CHaRMNET [Annual meeting](https://docs.google.com/spreadsheets/d/1VNdJ6lr1dKJ1k_OGIasHEBs3ZuZPYvBWaZfMg5I2sXk/edit#gid=0) was held at MSU.Aug 20, 2023      | CHaRMNET team member [Dr. Yingda Cheng was awarded](https://sinews.siam.org/Details-Page/august-prize-spotlight#Cheng) the 2023 [Germund Dahlquist Prize](https://www.siam.org/prizes-recognition/major-prizes-lectures/detail/germund-dahlquist-prize?_ga=2.106379200.2974610.1694451651-2013064564.1684331401). 
+Dec 04, 2023      | CHaRMNET [Annual meeting](https://docs.google.com/spreadsheets/d/1VNdJ6lr1dKJ1k_OGIasHEBs3ZuZPYvBWaZfMg5I2sXk/edit#gid=0) was held at MSU.
+Aug 20, 2023      | Congratulations to CHaRMNET team member Prof. Yingda Cheng (VT) on her [2023 Germund Dahlquist Prize](https://sinews.siam.org/Details-Page/august-prize-spotlight#Cheng). [The Germund Dahlquist Prize](https://www.siam.org/prizes-recognition/major-prizes-lectures/detail/germund-dahlquist-prize?_ga=2.106379200.2974610.1694451651-2013064564.1684331401) is awarded every two years to one individual for original contributions to numerical solution of differential equations and numerical methods for scientific computing. She was awarded "for her outstanding work on discontinuous Galerkin methods, including structure preservation and sparse grid methods for kinetic and transport equations".
 Jul 23, 2023	  | CHaRMNET team members gave talks in [17th USNCCM](https://www.usacm.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=58&Itemid=115&year=2023&month=07&day=23&title=17th-us-national-congress-on-computational-mechanics&uid=b15383b96fc7e4c781329611608bb6ed)
 May 21, 2023	  | CHaRMNET team members gave talks in [50th ICOPS](http://ece-events.unm.edu/icops2023/)
 Mar 01, 2023	  | CHaRMNET team members gave talks in [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23)
@@ -21,4 +23,4 @@ Mar 01, 2023	  | CHaRMNET team members gave talks in [SIAM CSE 2023](https://www
 Oct 20, 2022      |DOE is now accepting applications for  [CSGF](htpps://www.krellinst.org/csgf/).
 Oct 18, 2022      |CHaRMNET team members gave talks in [APS DPP](https://engage.aps.org/dpp/meetings/annual-meeting).
 Sep 26, 2022      |CHaRMNET team members gave talks in [SIAM MDS](https://www.siam.org/conferences/cm/conference/mds22).
-Jun 21, 2022       |Luis Chacon (LANL) was awarded the [EO Lawrence Award](https://science.osti.gov/lawrence).
+Jun 21, 2022       | Congratulations to CHaRMNET co-director Luis Chacon (LANL) on [his Ernest Orlando Lawrence Award](https://science.osti.gov/lawrence). The EO Lawrence award is DOE's highest honor for mid-career scientists. He was awarded "for seminal contributions in multiscale algorithms for fluid, kinetic, and hybrid simulation of plasmas, enabling scientific breakthroughs in fast magnetic reconnection and self-organization in magnetic fusion systems, and in reactivity degradation in inertial fusion systems".
