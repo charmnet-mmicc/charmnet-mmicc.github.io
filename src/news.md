@@ -3,9 +3,9 @@
 ### Year 2024
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
-May 01, 2024      | Dan Messenger (CU Boulder) is selected as a Director's postdoc fellow at LANL. Dan will work with Marc Klasky and Luis Chacon on the intersection of dynamical systems, data science, and plasma physics. He will remain a part of the CHaRMNET team.
-Feb 08, 2024      | CHaRMNET director [Dr. Andrew Christlieb talks milestone in nuclear fusion energy on WILX 10 News](https://www.wilx.com/2024/02/08/msu-professor-talks-milestone-nuclear-fusion-energy/).
-Jan 01, 2024      | Josh Burby starts a new position in the Department of Physics at University of Texas at Austin as an Assistant Professor. He will remain a part of the CHaRMNET team, concentrating on the foundations of theoretical plasma dynamics.
+May 01, 2024      | Dan Messenger (CU Boulder) is selected as a Director's postdoc fellow at LANL. Dan will work with Marc Klasky and Luis Chacon on the intersection of dynamical systems, data science, and plasma physics. He will remain a part of the CHaRMNET team. Congratulations!
+Feb 08, 2024      | CHaRMNET director [Prof. Andrew Christlieb talks milestone in nuclear fusion energy on WILX 10 News](https://www.wilx.com/2024/02/08/msu-professor-talks-milestone-nuclear-fusion-energy/).
+Jan 01, 2024      | Josh Burby starts a new position in the Department of Physics at University of Texas at Austin as an Assistant Professor. He will remain a part of the CHaRMNET team, concentrating on the foundations of theoretical plasma dynamics. Congratulations!
 
 ### Year 2023
 <img width=400px, style="margin:-90px"> | |
@@ -23,4 +23,4 @@ Mar 01, 2023	  | CHaRMNET team members gave talks in [SIAM CSE 2023](https://www
 Oct 20, 2022      |DOE is now accepting applications for  [CSGF](htpps://www.krellinst.org/csgf/).
 Oct 18, 2022      |CHaRMNET team members gave talks in [APS DPP](https://engage.aps.org/dpp/meetings/annual-meeting).
 Sep 26, 2022      |CHaRMNET team members gave talks in [SIAM MDS](https://www.siam.org/conferences/cm/conference/mds22).
-Jun 21, 2022       | Congratulations to CHaRMNET co-director Luis Chacon (LANL) on [his Ernest Orlando Lawrence Award](https://science.osti.gov/lawrence). The EO Lawrence award is DOE's highest honor for mid-career scientists. He was awarded "for seminal contributions in multiscale algorithms for fluid, kinetic, and hybrid simulation of plasmas, enabling scientific breakthroughs in fast magnetic reconnection and self-organization in magnetic fusion systems, and in reactivity degradation in inertial fusion systems".
+Jun 21, 2022       | Congratulations to CHaRMNET co-Director Dr. Luis Chacon (LANL) on [his Ernest Orlando Lawrence Award](https://science.osti.gov/lawrence). The EO Lawrence award is DOE's highest honor for mid-career scientists. He was awarded "for seminal contributions in multiscale algorithms for fluid, kinetic, and hybrid simulation of plasmas, enabling scientific breakthroughs in fast magnetic reconnection and self-organization in magnetic fusion systems, and in reactivity degradation in inertial fusion systems".
