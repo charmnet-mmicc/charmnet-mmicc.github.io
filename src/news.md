@@ -2,6 +2,7 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+Oct 01, 2024      | The CHaRMNET funded work, co-authored by CHaRMNET members, Daniel Messenger (Postdoc fellow at LANL), April Tran (Graduate School at CU Boulder)  and Prof. David Bortz (CU Boulder), titled "[The Weak Form is Stronger Than You Think](https://www.siam.org/publications/siam-news/articles/the-weak-form-is-stronger-than-you-think/)" was selected on the front page of SIAM NEWS, Volume 57, Issue 08, Oct 2024. 
 May 01, 2024      | Dan Messenger (CU Boulder) is selected as a Director's Postdoctoral Fellow at LANL. Dan will work with Marc Klasky and Luis Chacon on the intersection of dynamical systems, data science, and plasma physics. He will remain a part of the CHaRMNET team. Congratulations!
 Feb 08, 2024      | CHaRMNET director [Prof. Andrew Christlieb talks milestone in nuclear fusion energy on WILX 10 News](https://www.wilx.com/2024/02/08/msu-professor-talks-milestone-nuclear-fusion-energy/).
 Jan 01, 2024      | Josh Burby starts a new position in the Department of Physics at University of Texas at Austin as an Assistant Professor. He will remain a part of the CHaRMNET team, concentrating on the foundations of theoretical plasma dynamics. Congratulations!
