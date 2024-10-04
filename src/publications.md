@@ -47,6 +47,10 @@
 * L. LYU and H. LEI, Construction of Coarse-Grained Molecular Dynamics with Many-Body Non-Markovian Memory, Physical Review Letters, 131 (2023), pp. 177301. [DOI: 10.1103/PhysRevLett.131.177301](https://link.aps.org/doi/10.1103/PhysRevLett.131.177301.)
 * S. SCHOTTHÖFER, Synergies between Numerical Methods for Kinetic Equations and Neural Networks, Karlsruher Institut für Technologie (KIT), 2023. [DOI: 10.5445/ir/1000158838](http://dx.doi.org/10.5445/IR/1000158838.)
 * C. D. HAUCK and S. SCHNAKE, A Predictor-Corrector Strategy for Adaptivity in Dynamical Low-Rank Approximations, SIAM Journal on Matrix Analysis and Applications, 44 (2023), pp. 971-1005. [DOI: 10.1137/22m1519493](https://epubs.siam.org/doi/abs/10.1137/22M1519493.)
+
+----
+
+## 2022
 * J. A. CORRILLO, J. HU and S. Q. VAN FLEET, A particle method for the multispecies Landau equation, arXiv preprint arXiv:2310.16143 (2023). [DOI:10.48550/arXiv.2310.16143](https://doi.org/10.48550/arXiv.2310.16143)
 * O. A. MALIK, Y. XU, N. CHENG, S. BECKER, A. DOOSTAN and A. NARAYAN, Fast Algorithms for Monotone Lower Subsets of Kronecker Least Squares Problems, 2022, pp. arXiv:2209.05662. [DOI: 10.48550/arXiv.2209.05662](https://ui.adsabs.harvard.edu/abs/2022arXiv220905662M.)
 * A. J. CHRISTLIEB, W. A. SANDS and S. WHITE, A Particle-in-cell Method for Plasmas with a Generalized Momentum Formulation, Part I: Model Formulation, 2022, pp. arXiv:2208.11291. [DOI: 10.48550/arXiv.2208.11291](https://ui.adsabs.harvard.edu/abs/2022arXiv220811291C.)
