@@ -20,7 +20,7 @@ nav:
   - 'Simulation Acceleration': acceleration.md
   - 'Self-Consistency': gts.md
   - 'Beyond Forward Simulation': bout.md
-##- Publications: publications.md
+- Publications: publications.md
 - Calender: calender.md
 - Opening: opening.md
 - News: news.md
