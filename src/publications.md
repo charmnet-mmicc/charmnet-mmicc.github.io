@@ -1,5 +1,5 @@
 # Publications
-<iframe title="publication network draft 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjRhMWY2MGUtNWE1NS00MTVhLTg5NTEtZWY2YWQ2M2FhZGE1IiwidCI6IjIyMTc3MTMwLTY0MmYtNDFkOS05MjExLTc0MjM3YWQ1Njg3ZCIsImMiOjN9&pageName=231f4564c6830882699b" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ## 2024
 * C. BONNEVILLE, X. HE, A. TRAN, J. SUR PARK, W. FRIES, D. A. MESSENGER, S. WUN CHEUNG, Y. SHIN, D. M. BORTZ, D. GHOSH, J.-S. CHEN, J. BELOF and Y. CHOI, A Comprehensive Review of Latent Space Dynamics Identification Algorithms for Intrusive and Non-Intrusive Reduced-Order-Modeling, 2024, pp. arXiv:2403.10748. [DOI: 10.48550/arXiv.2403.10748](https://ui.adsabs.harvard.edu/abs/2024arXiv240310748B.) 
