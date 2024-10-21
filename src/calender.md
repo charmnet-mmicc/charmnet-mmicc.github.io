@@ -15,7 +15,6 @@ Sep 17, 2024 | CHaRMNET team member Dr. Youngsoo Choi gave an invited talk at Re
 Sep 12, 2024 | CHaRMNET team member Dr. David Bortz was invited to give a virtual talk at NASA Langley Seminar titled "The Weak Form Is Stronger Than You Think".
 Sep 09, 2024 | CHaRMNET team member Dr. Youngsoo Choi gave an invited talk at Model reduction and surrogate modeling (MORe2024), titled "LaSDI: latent space dynamics identification". 
 Sep 03, 2024 | CHaRMNET team member Dr. David Bortz gave a talk titled "The Weak Form Is Stronger Than You Think" at CU Space Weather Center of Excellence Seminar.
-
 Feb 27, 2024 | CHaRMNET team members attend the SIAM Conference on Uncertainty Quantification (UQ24) at Trieste, Italy and gave 4 talks at the conference. 
 Feb 19, 2024 | CHaRMNET team members attend the Computational Challenges and Optimization in Kinetic Plasma Physics Workshop at Chicago and gave 2 talks at the conference, titled "Implicit, asymptotic-preserving and energy-conserving time integration for particle-in-cell simulation of plasmas with arbitrary magnetization" by L. Ricketson, L. Chacon, O. Koshkarov, G. Chen  and "Low rank tensor approach for kinetic simulations" by Jingmei Qiu.
 Jan 09, 2024 | CHaRMNET team members attend Applied Mathematics and MMICCs Principal Investigator Meeting at Albuquerque, NM and gave 3 talks at the meeting on LaSDI and Data-driven finite element method (DD-FEM). 
