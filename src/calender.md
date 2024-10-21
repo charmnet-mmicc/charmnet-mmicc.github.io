@@ -1,15 +1,48 @@
-# Calender
+# Calendar
 
+## 2024
 <img width=400px, style="margin:-20px"> | |
 --------------------|-----------------------------------------------------------------
-Dec 04, 2023 | CHeRMNET will hold annual meeting at MSU. 
-Sep 27, 2023 | CHaRMENT team members held virtual meeting to prepare for the annual PI meeting and update the recent progress.
+Dec 10, 2024 | CHaRMNET team member Dr. Youngsoo Choi would attend Machine Learning and the Physical Sciences Workshop, NeurIPS 2024 and give talk on "Physics-informed reduced order model with conditional neural fields".
+Oct 22, 2024 | CHaRMNET team member Dr. Qi Tang gave an invited talk at MFEM Community Workshop 2024 about "An adaptive Newton-based free-boundary Grad–Shafranov solver".
+Oct 09, 2024 | CHaRMNET team member Dr. Youngsoo Choi organzied the Minisymposium at 1st SIAM Northern and Central California Sectional Conference (NCC24) and gave a talk titled "Train Small, Model Big: A Novel Data-Driven Scaleup for Large-Scale Physics Simulations". 
+Oct 01, 2024 | CHaRMNET team member Dr. Jingwei Hu, was invited to give a talk titled "Structure-Preserving Dynamical Low-Rank Methods for Kinetic Equations of Plasmas"at Georgia Institute of Technology, School of CSE Seminar Series.
+Sep 25, 2024 | CHaRMNET team member Dr. Jingmei Qiu, was invited to gave a virtual talk at Journal of Computational Physics Seminar, titled "Low rank tensor approach for kinetic simulations".
+Sep 24, 2024 | CHaRMNET team member Dr. Youngsoo Choi, was invited to talk at POSTECH Mathematical Institute for Data Science (MinDS) seminar webinar, titled "LaSDI: latent space dynamics identification".
+Sep 20, 2024 | CHaRMNET team member Dr. Jingmei Qiu, gave an invited talk at Computational Science and Engineering Seminar, Georgia Institute of Technology, titled "Low rank tensor approach for kinetic simulations".
+Sep 18, 2024 | CHaRMNET team member Dr. David Bortz was invited to talk at Virginia Tech Mathematics Seminar virtually, titled "The Weak Form Is Stronger Than You Think".
+Sep 17, 2024 | CHaRMNET team member Dr. Youngsoo Choi gave an invited talk at Research Connection Speaker Series, Generative Assembly Design, Autodesk, titled "LaSDI: latent space dynamics identification".
+Sep 12, 2024 | CHaRMNET team member Dr. David Bortz was invited to give a virtual talk at NASA Langley Seminar titled "The Weak Form Is Stronger Than You Think".
+Sep 09, 2024 | CHaRMNET team member Dr. Youngsoo Choi gave an invited talk at Model reduction and surrogate modeling (MORe2024), titled "LaSDI: latent space dynamics identification". 
+Sep 03, 2024 | CHaRMNET team member Dr. David Bortz gave a talk titled "The Weak Form Is Stronger Than You Think" at CU Space Weather Center of Excellence Seminar.
+
+Feb 27, 2024 | CHaRMNET team members attend the SIAM Conference on Uncertainty Quantification (UQ24) at Trieste, Italy and gave 4 talks at the conference. 
+Feb 19, 2024 | CHaRMNET team members attend the Computational Challenges and Optimization in Kinetic Plasma Physics Workshop at Chicago and gave 2 talks at the conference, titled "Implicit, asymptotic-preserving and energy-conserving time integration for particle-in-cell simulation of plasmas with arbitrary magnetization" by L. Ricketson, L. Chacon, O. Koshkarov, G. Chen  and "Low rank tensor approach for kinetic simulations" by Jingmei Qiu.
+Jan 09, 2024 | CHaRMNET team members attend Applied Mathematics and MMICCs Principal Investigator Meeting at Albuquerque, NM and gave 3 talks at the meeting on LaSDI and Data-driven finite element method (DD-FEM). 
+
+## 2023
+<img width=400px, style="margin:-20px"> | |
+--------------------|-----------------------------------------------------------------
+Dec 15, 2023 | CHaRMNET team members attended Machine Learning and the Physical Sciences Workshop, NeurIPS 2023 at New Orleans Ernest N. Morial Convention Center  and gave 5 talks in the conference, titled "Accelerating Flow Simulations using Online Dynamic Mode Decomposition"; "Accelerating Kinetic Simulations of Electrostatic Plasmas with Reduced-Order Modeling"; "Data-Driven Autoencoder Numerical Solver with Uncertainty Quantification for Fast Physical Simulations"; "Nonlinear-manifold reduced order models with domain decomposition" and "Reduced-order modeling for parameterized PDEs via implicit neural representations".
+Dec 09, 2023 | CHaRMNET team member Dr. Jingmei Qiu was invited to Workshop "Recent Advances in Numerical Methods for Hyperbolic Conservation Laws" and gave a talk about "Low rank Time integrators for solving time-dependent PDEs". 
+Dec 04, 2023 | CHaRMNET held annual meeting at MSU. 
+Nov 30, 2023 | CHaRMNET team member Dr.Cory Hauck was invited to give a virtual talk at University of Utah Math Colloquium, titled "Kinetic Models of Particle Systems".
+Nov 20, 2023 | CHaRMNET team member Dr. Youngsoo Choi gave a talk, titled "Physics-guided interpretable data-driven simulations" on Second Workshop on Physics Enhancing Machine Learning in Applied Mechanics. 
+Nov 16, 2023 | CHaRMNET team member Dr. Youngsoo Choi talked at National Academies Sciences Engineering Medicine (NASEM) Committee on Solid Earth GeophysicsFall 2023 Meeting, titled "Physics-guided & interpretable data-driven simulations".
+Nov 11, 2023 | CHaRMNET team member Dr. Cory Hauck was invited to give Plenary talk at Triangle Computational and Applied Mathematics Symposium, titled "Kinetic Models of Particle Systems".
+Oct 25, 2023 | CHaRMNET team member Dr. Luis Chacón  gave an invited talk at 2023 Optimal Transport Workshop, titled "An implicit, conservative, asymptotic-preserving electrostatic particle-in-cell algorithm for arbitrary magnetic fields".
+Oct 18, 2023 | CHaRMNET team members Dr.Jingmei Qiu and Dr.Cory Hauck attend Workshop on Sparse Tensor Computations and gave 2 talks titled "Low rank Tensor Approximations to Kinetic Models" and "A semi-implicit, low-rank DG method for a kinetic model of radiation emission and absorption".
+Oct 13, 2023 | CHaRMNET team members Dr. Joshua William Burby led the LANL [Webinar on SP Fluid](https://docs.google.com/document/d/1NJ5zwPtqe1Z2qpCyoUY7z6VeOY31IShDzkyE8v5gpMI/edit).
+Oct 02, 2023 | Two CHaRMNET team members Dr. Jingmei Qiu and Dr. Jingwei Hu were invited to gave talks at Numerical analysis seminar, University of Maryland, titled "A Low Rank Tensor Approach for Nonlinear Vlasov Simulations" and "Dynamical low-rank methods for high-dimensional collisional kinetic equations".
+Sep 25, 2023 | CHaRMNET team member Dr. Jingmei Qiu gave a virtual talk about "A Low Rank Tensor Approach for Nonlinear Vlasov Simulations" at Journal of Computational Physics Seminar.
+Sep 18, 2023 | CHaRMNET team member Dr. Youngsoo Choi was invited to give a talk at Applied and Computational Mathematics Seminar, Georgia Tech, titled "Physics-guided interpretable data-driven simulations".
+Sep 01, 2023 | CHaRMNET team member Dr.Jingwei Hu was invited to give talk at PIMS Distinguished Colloquium, titled "Structure preserving particle method for the Vlasov-Landau-Maxwell equation", at University of Northern British Columbia, Canada
 Aug 30, 2023 | CHaRMENT team members held virtual meeting to discuss the recent team progress and Dr. Youngsoo Choi gave an talk titled "Interpretable & Physic-guided data-driven methods".
 Aug 20, 2023 | CHaRMNET team members attend [ICIAM 2023 Tokyo](https://iciam.org/event/iciam-2023-%E2%80%93-tokyo). Dr. Youngsoo Choi, Dr. Lee Ricketson and Dr. David Bortz will give invited talks. 
 Jul 23, 2023 | CHaRMNET team members attend and meet at [17th U. S. National Congress on Computational Mechanics 2023](https://www.usacm.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=58&Itemid=115&year=2023&month=07&day=23&title=17th-us-national-congress-on-computational-mechanics&uid=b15383b96fc7e4c781329611608bb6ed) and give 5 presentations on the meeting.
 Jun 05, 2023 | CHaRMNET team member Dr. John Jakeman gave a talk titled ["Machine learning and uncertainty quantification for coupled multi-physics, multi-scale and multi-fidelity modelling"](https://coupled2023.cimne.com/event/area/d40b71ee-2df5-11ed-8e5b-000c29ddfc0c) at Coupled 2023 Conference 2 minisymposium sessions, Crete, Greece.
-Jun 03, 2023 | CHaRMNET team members, Dr. Tim Wildey and [Dr. Youngsoo Choi](https://meetings.siam.org/sess/dsp_talk.cfm?p=127228), attend [SIAM Conference on Optimization 2023](https://meetings.siam.org/program.cfm?CONFCODE=OP23) and give two talks at the conference. 
-Jun 01, 2023 | CHaRMNET team member Dr. Lee Ricketson gives talk at University of Washington Seminar in Applied Mathematics, titled "An energy conserving and asymptotic-preserving time integrator for charged particle motion".
+Jun 03, 2023 | CHaRMNET team members Dr. Tim Wildey and [Dr. Youngsoo Choi](https://meetings.siam.org/sess/dsp_talk.cfm?p=127228), attend [SIAM Conference on Optimization 2023](https://meetings.siam.org/program.cfm?CONFCODE=OP23) and give two talks at the conference. 
+Jun 01, 2023 | CHaRMNET team member Dr. Lee Ricketson gave talk at University of Washington Seminar in Applied Mathematics, titled "An energy conserving and asymptotic-preserving time integrator for charged particle motion".
 May 22, 2023 | CHaRMNET team member Dr. Jingwei Hu gave an invited talk about "A conservative dynamical low-rank method for the Vlasov equation via a new macro-micro decomposition" at Workshop on Dynamical Low-rank Approximation held by EPFL, Lausanne, Switzerland.
 May 21, 2023 | IEEE 50th International Conference on Plasma Science was held at Santa Fe, New Mexico. Several CHaRMNET team members attended the meeting and gave 3 talks. 
 May 17, 2023 | SIAM Applied Dynamical Systems conference was held at Portland, OR and CHaRMNET team members attended and gave 2 talks at the meeting.  
@@ -34,6 +67,10 @@ Feb 10, 2023 | CHaRMNET team member Dr. Luis Chacon was invited to gave a talk a
 Feb 03, 2023 | CHaRMNET team member Dr. Youngsoo Choi gave an invited talk at San Diego State University Computational Research Leadership Council (CRLC) Seminar about "Physics constrained data-driven methods for accurately accelerating simulations".
 Feb 03, 2023 | CHaRMNET team member Dr. David Bortz gave an invited talk in the University of Washington NSF Dynamics of AI Institute Data-driven modeling seminar on "The Surprising Robustness and Computational Efficiency of Weak Form System Identification".
 Feb 03, 2023 | CHaRMNET team member Dr. Luis Chacon gave a talk about "Challenges and opportunities for high-fidelity non-equilibrium simulation of ICF fusion experiments" at Los Alamos National Lab Physics/Theory Colloquium. 
+
+## 2022
+<img width=400px, style="margin:-20px"> | |
+--------------------|-----------------------------------------------------------------
 Dec 13, 2022 | CHaRMNET team members, Dr. Jingwei Hu and Dr. Luis Chacon, were invited to the workship on kinetic and hyperbolic equations at Toulouse, France and gave invited talks. 
 Dec 1-2 2022 | CHaRMNET will have a kick-off team meeting at LANL.  
 Nov 30, 2022 | CHaRMNET Director Dr. Andrew Christlieb was invited to the Center for Nonlinear Studies Seminar Series at Los Alamos National Lab and gave a talk about "A new Particle-In-Cell method based on integral equations".
