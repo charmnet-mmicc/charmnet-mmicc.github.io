@@ -1,5 +1,7 @@
 # Publications
 
+<iframe title="Publication network final -2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDgyNmFlNGMtNWY2Zi00MGUzLTlkMGEtNjY1ZjA3NDRmMzdhIiwidCI6IjIyMTc3MTMwLTY0MmYtNDFkOS05MjExLTc0MjM3YWQ1Njg3ZCIsImMiOjN9&pageName=673ec468b3d21c9e0860" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ## 2024
 * S.-Y. CHO, M. GROPPI, J.-M. QIU, G. RUSSO and S.-B. YUN, Conservative Semi-Lagrangian Methods for Kinetic Equations, in J. A. Carrillo and E. Tadmor, eds., Active Particles, Volume 4, Birkhäuser Cham, to be published.
