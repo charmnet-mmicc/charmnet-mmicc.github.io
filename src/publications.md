@@ -6,6 +6,8 @@
 ## Publication List
 
 ## 2024
+* L. F. RICKETON and J. HU, An explicit, energy conserving particle-in-cell scheme, Submitted.
+* A. CHRISTLIEB, K. PROMISLOW, Z. TAN, S. WANG, B. WETTON and S. M. WISE, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow, 2020, pp. arXiv:2006.04784. DOI: [10.48550/arXiv.2006.04784](https://ui.adsabs.harvard.edu/abs/2020arXiv200604784C).
 * S.-Y. CHO, M. GROPPI, J.-M. QIU, G. RUSSO and S.-B. YUN, Conservative Semi-Lagrangian Methods for Kinetic Equations, in J. A. Carrillo and E. Tadmor, eds., Active Particles, Volume 4, Birkhäuser Cham, to be published.
 * X. XIE, Q. TANG and X. TANG, Latent Space Dynamics Learning for Stiff Collisional-radiative Models, 2024, pp. arXiv:2409.05893. DOI: [10.48550/arXiv.2409.05893](https://ui.adsabs.harvard.edu/abs/2024arXiv240905893X).
 * D. APPELO and Y. CHENG, Kraus is King: High-order Completely Positive and Trace Preserving (CPTP) Low Rank Method for the Lindblad Master Equation, 2024, pp. arXiv:2409.08898. DOI: [10.48550/arXiv.2409.08898](https://ui.adsabs.harvard.edu/abs/2024arXiv240908898A).
@@ -61,6 +63,10 @@
 ----
 
 ## 2023
+* M. BAUERLE, A. J. CHRISTLIEB, M. DING and J. HUANG, On the rotational invariance and hyperbolicity of shallow water moment equations in two dimensions, 2023, pp. arXiv:2306.07202. DOI: [10.48550/arXiv.2306.07202](https://ui.adsabs.harvard.edu/abs/2023arXiv230607202B).
+* A. J. CHRISTLIEB, W. A. SANDS and H. YANG, Order enhanced finite volume methods through non-polynomial approximation, Journal of Computational Physics, 478 (2023), pp. 111960. DOI: [10.1016/j.jcp.2023.111960](https://www.sciencedirect.com/science/article/pii/S0021999123000554.)
+* A. CHRISTLIEB, M. LINK, H. YANG and R. CHANG, High-Order Semi-Lagrangian WENO Schemes Based on Non-polynomial Space for the Vlasov Equation, Communications on Applied Mathematics and Computation, 5 (2023), pp. 116-142. DOI: [10.1007/s42967-021-00150-5](https://doi.org/10.1007/s42967-021-00150-5.)
+* J. HUANG, Y. CHENG, A. J. CHRISTLIEB, L. F. ROBERTS and W.-A. YONG, Machine Learning Moment Closure Models for the Radiative Transfer Equation II: Enforcing Global Hyperbolicity in Gradient-Based Closures, Multiscale Modeling & Simulation, 21 (2023), pp. 489-512. DOI: [10.1137/21m1423956](https://epubs.siam.org/doi/abs/10.1137/21M1423956).
 * J. NAKAO, J.-M. QIU and L. EINKEMMER, Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, 2023, pp. arXiv:2311.15143. DOI: [10.48550/arXiv.2311.15143](https://ui.adsabs.harvard.edu/abs/2023arXiv231115143N).
 * G. CHEN and L. CHACÓN, An implicit, conservative and asymptotic-preserving electrostatic particle-in-cell algorithm for arbitrarily magnetized plasmas in uniform magnetic fields, Journal of Computational Physics, 487 (2023), pp. 112160. DOI: [10.1016/j.jcp.2023.112160](https://www.sciencedirect.com/science/article/pii/S0021999123002553).
 * M. DING, J.-M. QIU and R. SHU, Accuracy and Stability Analysis of the Semi-Lagrangian Method for Stiff Hyperbolic Relaxation Systems and Kinetic BGK Model, Multiscale Modeling & Simulation, 21 (2023), pp. 143-167. DOI: [10.1137/21m141871x](https://epubs.siam.org/doi/abs/10.1137/21M141871X).
@@ -78,6 +84,8 @@
 ----
 
 ## 2022
+* J. HUANG, Y. CHENG, A. J. CHRISTLIEB and L. F. ROBERTS, Machine learning moment closure models for the radiative transfer equation I: Directly learning a gradient based closure, Journal of Computational Physics, 453 (2022), pp. 110941. DOI: [10.1016/j.jcp.2022.110941](https://www.sciencedirect.com/science/article/pii/S0021999122000031)
+* J. HUANG, Y. CHENG, A. J. CHRISTLIEB and L. F. ROBERTS, Machine Learning Moment Closure Models for the Radiative Transfer Equation III: Enforcing Hyperbolicity and Physical Characteristic Speeds, Journal of Scientific Computing, 94 (2022), pp. 7. DOI: [10.1007/s10915-022-02056-7](https://doi.org/10.1007/s10915-022-02056-7)
 * O. A. MALIK, Y. XU, N. CHENG, S. BECKER, A. DOOSTAN and A. NARAYAN, Fast Algorithms for Monotone Lower Subsets of Kronecker Least Squares Problems, 2022, pp. arXiv:2209.05662. [DOI: 10.48550/arXiv.2209.05662](https://ui.adsabs.harvard.edu/abs/2022arXiv220905662M.)
 * A. J. CHRISTLIEB, W. A. SANDS and S. WHITE, A Particle-in-cell Method for Plasmas with a Generalized Momentum Formulation, Part I: Model Formulation, 2022, pp. arXiv:2208.11291. [DOI: 10.48550/arXiv.2208.11291](https://ui.adsabs.harvard.edu/abs/2022arXiv220811291C.)
 * Z. PENG, Y. CHEN, Y. CHENG and F. LI, A Reduced Basis Method for Radiative Transfer Equation, Journal of Scientific Computing, 91 (2022), pp. 5. [DOI: 10.1007/s10915-022-01782-2](https://doi.org/10.1007/s10915-022-01782-2.)
