@@ -10,7 +10,7 @@ CHaRMNET has a wide range of post doc opportunity’s across the center.  Many o
 
 - University of Washington Seattle (Hu) – (1 [post doc position](https://www.mathjobs.org/jobs/list/20601), please specify in the Cover Letter that you would like to work with Prof. Hu.)
 
-- Oak Ridge National Lab (Hauck) – (3 [post doc positions](https://www.mathjobs.org/jobs/ORNL))
+- Oak Ridge National Lab (Hauck) – (2 post doc positions: [Postdoctoral Research Associate - Numerical Methods for Kinetic Equations](https://jobs.ornl.gov/job/oak-Ridge-Postdoctoral-Research-Associate-Numerical-Methods-for-Kinetic-Equations-TN-37830/1225088800/) and [Postdoctoral Research Associate - Machine Learning and Surrogate Models](https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Machine-Learning-and-Surrogate-Models-TN-37830/1225089600/))
 
 
 **Coming soon**:
