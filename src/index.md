@@ -20,10 +20,10 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
+Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
+Jan 06, 2025      | CHaRMNET team member Sigal Gottlieb will give Invited Presentations at [SIAM CSE 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/program/invited-presentations/).
 Oct 01, 2024        | CHaRMNET funded work, titled "[The Weak Form is Stronger Than You Think](https://www.siam.org/publications/siam-news/articles/the-weak-form-is-stronger-than-you-think/)", was selected on the front page of SIAM NEWS. 
 Feb 08, 2024        | CHaRMNET director [Dr. Andrew Christlieb talks milestone in nuclear fusion energy on WILX 10 News](https://www.wilx.com/2024/02/08/msu-professor-talks-milestone-nuclear-fusion-energy/) 
-Dec 04, 2023        | CHaRMNET [Annual meeting](https://docs.google.com/spreadsheets/d/1VNdJ6lr1dKJ1k_OGIasHEBs3ZuZPYvBWaZfMg5I2sXk/edit#gid=0) was held at MSU.
-Aug 20, 2023        | [Dr. Yingda Cheng was awarded](https://sinews.siam.org/Details-Page/august-prize-spotlight#Cheng) 2023 [Germund Dahlquist Prize](https://www.siam.org/prizes-recognition/major-prizes-lectures/detail/germund-dahlquist-prize?_ga=2.106379200.2974610.1694451651-2013064564.1684331401). 
 
 
 
