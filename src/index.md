@@ -20,10 +20,10 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
+Mar 27, 2025      | CHaRMNET co-director Luis Chacon was named a [2025 SIAM Fellow](https://www.siam.org/publications/siam-news/articles/siam-announces-2025-class-of-fellows/).
 Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
 Jan 06, 2025      | CHaRMNET team member Sigal Gottlieb will give Invited Presentations at [SIAM CSE 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/program/invited-presentations/).
 Oct 01, 2024        | CHaRMNET funded work, titled "[The Weak Form is Stronger Than You Think](https://www.siam.org/publications/siam-news/articles/the-weak-form-is-stronger-than-you-think/)", was selected on the front page of SIAM NEWS. 
-Feb 08, 2024        | CHaRMNET director [Dr. Andrew Christlieb talks milestone in nuclear fusion energy on WILX 10 News](https://www.wilx.com/2024/02/08/msu-professor-talks-milestone-nuclear-fusion-energy/) 
 
 
 

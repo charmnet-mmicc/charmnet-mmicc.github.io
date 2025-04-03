@@ -2,6 +2,7 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+Mar 27, 2025      | CHaRMNET co-director Luis Chacon was named a [2025 SIAM Fellow](https://www.siam.org/publications/siam-news/articles/siam-announces-2025-class-of-fellows/) for his seminal contributions to scalable, multiscale fluid, kinetic, and hybrid algorithms, enabling breakthrough simulations of magnetic and inertial fusion plasmas.
 Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
 Jan 06, 2025      | CHaRMNET team member Sigal Gottlieb will give Invited Presentations at [SIAM CSE 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/program/invited-presentations/). 
 Oct 01, 2024      | The CHaRMNET funded work, co-authored by CHaRMNET members, Daniel Messenger (Postdoc fellow at LANL), April Tran (Graduate School at CU Boulder)  and Prof. David Bortz (CU Boulder), titled "[The Weak Form is Stronger Than You Think](https://www.siam.org/publications/siam-news/articles/the-weak-form-is-stronger-than-you-think/)" was selected on the front page of SIAM NEWS, Volume 57, Issue 08, Oct 2024. 
