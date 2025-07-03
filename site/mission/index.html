@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <meta name="keywords" content="Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport, CHaRMNET">
+        <meta name="google-site-verification" content="45K56TawSdzbgy-uDtfJdYwp7zaVdL3fIAGYt869wwU" />
+<!--	<title></title>  -->
+        <title>CHaRMNET - Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport</title>
+
+        <link href="../css/bootstrap-mfem.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link href="../css/highlight.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        
+    </head>
+
+    <body>
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <!-- Main title -->
+            <a class="navbar-brand" href="https://charmnet-mmicc.github.io">CHaRMNET</a>
+        </div>
+
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+            <!-- Main navigation -->
+            <ul class="nav navbar-nav">
+            
+            
+            
+            
+            
+                <li class="active">
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="./">Motivation</a>
+                </li>
+            
+            
+            
+            
+            
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Algorithms <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    
+                        
+                            <li >
+                                 <a href="../cont-fmr/">Multi-Scale Models</a>
+                            </li>
+                        
+                    
+                        
+                            <li >
+                                 <a href="../acceleration/">Simulation Acceleration</a>
+                            </li>
+                        
+                    
+                        
+                            <li >
+                                 <a href="../gts/">Self-Consistency</a>
+                            </li>
+                        
+                    
+                        
+                            <li >
+                                 <a href="../bout.md">Beyond Forward Simulation</a>
+                            </li>
+                        
+                    
+                    </ul>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../publications/">Publications</a>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../calender/">Calendar</a>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../opening/">Opening</a>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../news/">News</a>
+                </li>
+            
+            
+            
+            
+            
+                <li >
+                    <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
+                    <a href="../about/">About</a>
+                </li>
+            
+            
+            
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+            
+            <div class="col-md-3 visible-xs visible-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    
+        <li class="main active"><a href="#center-mission">Center Mission</a></li>
+        
+    
+        <li class="main "><a href="#runaway-electrons-in-mfe">Runaway electrons in MFE</a></li>
+        
+    
+        <li class="main "><a href="#nonequilibrium-hohlraum-physics-nhp-for-icfife">Nonequilibrium hohlraum physics (NHP) for ICF/IFE</a></li>
+        
+    
+    </ul>
+</div>
+
+<!-- Developer notes:
+  See the MkDocs documentation in https://www.mkdocs.org/dev-guide/themes/#page
+  and the Jinja2 template API in https://tedboy.github.io/jinja2/index.html
+--></div> <!-- toc on top on mobile -->
+            <div class="col-md-9" role="main">
+
+<h2 id="center-mission">Center Mission</h2>
+<p>The engineering of plasmas is more difficult than the engineering of other states of matter:
+plasmas have many more mechanisms through which to actively redistribute energy to arrive at states preferential to the plasma -- regardless of engineering constraints.
+The solution space for transport equations coupled to Maxwell’s equations is rugged terrain with significant cliffs, peaks, and valleys that
+correspond to these many nonlinear transitions (instabilities).
+Further complicating the design/control process is the fact that the plasma is a dynamical system with rich intermittent and chaotic behaviors,
+which manifest as an additional source of uncertainty in plasma responses.</p>
+<p>We need to develop kinetically aware, fast surrogate models for decision and active control in  plasma applications.
+Robustness to CME events could be enhanced if we could make mitigation deployment decisions within the short window of time between the detection of a CME and its arrival at Earth.
+Of course, such decisions will require quantified confidence levels, since the cost of a mistake could be in the billions of dollars.
+Inertial Fusion Energy (IFE) power-plant concepts currently rely on fast repetition-rate lasers, with target implosions at 1-10 Hz (vs. sub-mHz frequencies of current Inertial Confinement Fusion (ICF) experiments).
+Given the need for mass-produced targets, active adjustment of the energy delivery (pulse amplitude, duration, shape, etc.) will be necessary to accommodate defects in the targets, requiring rapid assessment of the implosion efficiency and automated changes in the driver.
+In Magnetic Fusion Energy (MFE), tokamak detachment and disruption mitigation strategies require active control, especially for the latter, where the disruption can occur on tens of millisecond time scales.
+Uncontrolled plasma disruptions (and the ensuing generation of fast electrons) can cause reactor damage in the  millions of dollars and result in significant down-time, so sophisticated plasma-response surrogates  with quantified bias/uncertainty would significantly advance the state of the art in active control for MFE.</p>
+<p>To focus our efforts, we will consider two target applications with the dual goal of integrating the thrust developments throughout the project, and providing a demonstration test-bed for mathematical breakthroughs.</p>
+<h2 id="runaway-electrons-in-mfe">Runaway electrons in MFE</h2>
+<p>Runaway electrons (RE) form as the plasma in a tokamak cools during the thermal quench stage in a disruption due to enhanced plasma resistivity and the corresponding increase of the induced loop voltage. 
+Once they break free from collisional drag, REs become fundamentally kinetic since they cannot be controlled by self-collisional processes. 
+As they accelerate, REs may pick up an increasing fraction of the plasma current, affecting magnetic field evolution. REs are confined by nested flux surfaces in a tokamak and can accelerate to sufficiently large energies to eventually rupture the vacuum wall, which is a key obstacle for the prospects of MFE as an energy source.
+Understanding RE generation and dynamics is a phenomenal applied mathematics challenge, in principle requiring the integration of the high-dimensional relativistic Vlasov-Fokker-Planck (VFP) equation over magnetohydrodynamic (MHD) timescales (much longer than electron collision and transit times). The ultimate goal is to understand magnetic field evolution in the presence of an evolving RE population and how to affect it to prevent RE formation and acceleration. Addressing this challenge will require the tools proposed in CHaRMNET, including hierarchical multiscale methods, data-driven surrogates, and MF approaches for control and UQ (to identify suitable mitigation strategies at the engineering scale). </p>
+<h2 id="nonequilibrium-hohlraum-physics-nhp-for-icfife">Nonequilibrium hohlraum physics (NHP) for ICF/IFE</h2>
+<p>The National Ignition Facility ignited a laser-driven compressed fusion fuel capsule in August, 2021. While momentous, this outcome has not yet been reproduced. Achieving reproducible ignition is critical for ICF National Security purposes and for the long-term prospects of IFE.
+The largest source of uncertainty in current modeling capabilities is the hohlraum, a cylindrical device that encloses the capsule containing the fusion fuel, that transforms laser energy into X-ray energy that bathes and compresses the capsule. Lack of irradiation uniformity leads to capsule implosion degradation, critically impacting the prospects for ignition.
+Maximizing radiation uniformity is therefore critical, which can be cast as an optimal-design-under-uncertainty problem.
+Addressing this challenge requires modeling both kinetic plasmas and radiation fields, coupled with lasers in realistic geometries. This problem is a second phenomenal applied mathematics challenge, with important ramifications for national security and the attainment of fusion energy on Earth, that touches on all of CHaRMNET's themes.</p></div>
+            <div class="col-md-3 hidden-xs hidden-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    
+        <li class="main active"><a href="#center-mission">Center Mission</a></li>
+        
+    
+        <li class="main "><a href="#runaway-electrons-in-mfe">Runaway electrons in MFE</a></li>
+        
+    
+        <li class="main "><a href="#nonequilibrium-hohlraum-physics-nhp-for-icfife">Nonequilibrium hohlraum physics (NHP) for ICF/IFE</a></li>
+        
+    
+    </ul>
+</div>
+
+<!-- Developer notes:
+  See the MkDocs documentation in https://www.mkdocs.org/dev-guide/themes/#page
+  and the Jinja2 template API in https://tedboy.github.io/jinja2/index.html
+--></div>
+            
+        </div>
+
+        <footer class="footer">
+           <div class="container">
+               <p class="text-muted alignright">Approved for public release; distribution is unlimited.</p>
+              <p class="text-muted alignleft">
+                  Developed by the <a href="/about/">CHaRMNET team</a> at
+                  <a href="https://cmse.msu.edu/">CMSE@MSU</a> based on
+                  <a href="https://mfem.org/">MFEM</a> webpage template.</p>
+           </div>
+        </footer>
+        
+        <script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script>
+        <script src="../js/base.js"></script>
+        <script src="../js/retina.min.js"></script>
+        <!-- <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script> --> <!-- file missing in repo -->
+        <script src="../search/main.js"></script>
+    </body>
+</html>
