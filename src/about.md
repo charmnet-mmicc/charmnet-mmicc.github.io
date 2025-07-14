@@ -8,7 +8,7 @@ Our Center is supported by the the Advanced Scientific Computing Research progra
 
 {% set members = ['A_Christlieb', 'L_Chacon', 'S_Becker', 'D_Bortz', 'J_Burby', 'Y_Cheng', 'Y_Choi', 
 'S_Gottlieb', 'C_Hauck', 'T_Haut', 'J_Hittinger', 'J_Hu', 'J_Jakeman', 'H_Lei','D_Messenger', 
-'B_Oshea', 'J_Qiu', 'L_Ricketson', 'S_Schotthoefer', 'Q_Tang', 'P_Tranquilli', 'T_Wildey'] %}
+'B_Oshea', 'J_Qiu', 'L_Ricketson', 'S_Schotthoefer', 'Q_Tang', 'W_Taitano', 'P_Tranquilli', 'T_Wildey'] %}
 
 {% for member in members %}
 <div class="row">
