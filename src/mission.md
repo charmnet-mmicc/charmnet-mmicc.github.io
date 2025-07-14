@@ -1,14 +1,34 @@
-## Center Introduction
+## Center Mission
 
-Turbulence is a critically important problem in plasma physics, both as a phenomenon of fundamental interest and for its impact on applications such as pulsed-power devices (where it strongly impacts rates of energy transport, magnetic reconnection, and plasma instabilities). Turbulence in plasmas is fundamentally different than hydrodynamic turbulence
-due to the presence of magnetic fields and their interactions with charged particles. Magnetic fields in plasmas allow physically separated regions to interact with each other which, in the context of turbulence, allows both spatially nonlocal energy transfer as well as an “inverse cascade” of energy from smaller to larger spatial scales. This makes plasma turbulence a complex, nonlinear phenomenon, and studying it can provide insights into nonlinear dynamics and chaos as well as potentially providing insight into other turbulent systems in fluid dynamics. Furthermore, the complexity of plasma turbulence fundamentally requires large-scale simulations as a tool for discovery and understanding, which in turn motivates the need for high-order numerical methods and training for the next generation of computational scientists to study these phenomena.
+The engineering of plasmas is more difficult than the engineering of other states of matter:
+plasmas have many more mechanisms through which to actively redistribute energy to arrive at states preferential to the plasma -- regardless of engineering constraints.
+The solution space for transport equations coupled to Maxwell’s equations is rugged terrain with significant cliffs, peaks, and valleys that
+correspond to these many nonlinear transitions (instabilities).
+Further complicating the design/control process is the fact that the plasma is a dynamical system with rich intermittent and chaotic behaviors,
+which manifest as an additional source of uncertainty in plasma responses.
 
-## Techical Approach
+We need to develop kinetically aware, fast surrogate models for decision and active control in  plasma applications.
+Robustness to CME events could be enhanced if we could make mitigation deployment decisions within the short window of time between the detection of a CME and its arrival at Earth.
+Of course, such decisions will require quantified confidence levels, since the cost of a mistake could be in the billions of dollars.
+Inertial Fusion Energy (IFE) power-plant concepts currently rely on fast repetition-rate lasers, with target implosions at 1-10 Hz (vs. sub-mHz frequencies of current Inertial Confinement Fusion (ICF) experiments).
+Given the need for mass-produced targets, active adjustment of the energy delivery (pulse amplitude, duration, shape, etc.) will be necessary to accommodate defects in the targets, requiring rapid assessment of the implosion efficiency and automated changes in the driver.
+In Magnetic Fusion Energy (MFE), tokamak detachment and disruption mitigation strategies require active control, especially for the latter, where the disruption can occur on tens of millisecond time scales.
+Uncontrolled plasma disruptions (and the ensuing generation of fast electrons) can cause reactor damage in the  millions of dollars and result in significant down-time, so sophisticated plasma-response surrogates  with quantified bias/uncertainty would significantly advance the state of the art in active control for MFE.
 
-High-order methods are critical for the direct numerical simulation of turbulence, doubly so for the case for plasmas where magnetic fields allow for transfer of energy and information between physically disparate scales. Scalable state-of-the-art magnetohydrodynamic (MHD) models used to study these effects are, in general, second-order methods. Members of this team have comprehensively demonstrated the advantages of high-order methods in the context of plasma dynamics, including problems with strong shocks. Some team members have developed scalable open source community codes and frameworks. In addition, team members have developed structure-preserving machine learning (ML) surrogates that identify and enforce key mathematical properties and can be hybridized with traditional computing methods, yielding stable integrated simulations. This FIC brings these threads together in the development of open source frameworks for plasma problems that undergo strong shocks and have a range of multi-scale and multiphysics turbulent behaviors, and which include synthetic diagnostics for direct comparison with plasma experiments. We will do so using DOE-supported open source frameworks that are developed in part by our team members.
+To focus our efforts, we will consider two target applications with the dual goal of integrating the thrust developments throughout the project, and providing a demonstration test-bed for mathematical breakthroughs.
+
+## Runaway electrons in MFE
+
+Runaway electrons (RE) form as the plasma in a tokamak cools during the thermal quench stage in a disruption due to enhanced plasma resistivity and the corresponding increase of the induced loop voltage. 
+Once they break free from collisional drag, REs become fundamentally kinetic since they cannot be controlled by self-collisional processes. 
+As they accelerate, REs may pick up an increasing fraction of the plasma current, affecting magnetic field evolution. REs are confined by nested flux surfaces in a tokamak and can accelerate to sufficiently large energies to eventually rupture the vacuum wall, which is a key obstacle for the prospects of MFE as an energy source.
+Understanding RE generation and dynamics is a phenomenal applied mathematics challenge, in principle requiring the integration of the high-dimensional relativistic Vlasov-Fokker-Planck (VFP) equation over magnetohydrodynamic (MHD) timescales (much longer than electron collision and transit times). The ultimate goal is to understand magnetic field evolution in the presence of an evolving RE population and how to affect it to prevent RE formation and acceleration. Addressing this challenge will require the tools proposed in CHaRMNET, including hierarchical multiscale methods, data-driven surrogates, and MF approaches for control and UQ (to identify suitable mitigation strategies at the engineering scale). 
 
 
-## Goals
+## Nonequilibrium hohlraum physics (NHP) for ICF/IFE
 
-High order numerical methods and scientific machine learning (SciML) are fundamental enabling technologies for problems equiring exascale computing. While their benefit has been demonstrated in some circumstances, we will develop these methods in the context of complex plasma phenomena. Specifically, we will simulate high energy density plasmas in fluid and fluid-adjacent regimes, with a focus on plasma turbulence and radiative magnetic reconnection. In the latter case we will make direct connections to the Magnetically Ablated Reconnection on Z (MARZ) platform on Sandia’s Z Machine. Our primary goal in choosing these applications is to ensure that the methods and tools that we develop are maximally useful for a broad range of high energy density problems of DOE interest.
+The National Ignition Facility ignited a laser-driven compressed fusion fuel capsule in August, 2021. While momentous, this outcome has not yet been reproduced. Achieving reproducible ignition is critical for ICF National Security purposes and for the long-term prospects of IFE.
+The largest source of uncertainty in current modeling capabilities is the hohlraum, a cylindrical device that encloses the capsule containing the fusion fuel, that transforms laser energy into X-ray energy that bathes and compresses the capsule. Lack of irradiation uniformity leads to capsule implosion degradation, critically impacting the prospects for ignition.
+Maximizing radiation uniformity is therefore critical, which can be cast as an optimal-design-under-uncertainty problem.
+Addressing this challenge requires modeling both kinetic plasmas and radiation fields, coupled with lasers in realistic geometries. This problem is a second phenomenal applied mathematics challenge, with important ramifications for national security and the attainment of fusion energy on Earth, that touches on all of CHaRMNET's themes.
 

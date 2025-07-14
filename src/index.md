@@ -2,32 +2,33 @@
 
 ![](img/charmnet_logo.png)
 
-# The center for High order plasma turbulence modeling for Z-pinch (HighZ) 
+# Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (CHaRMNET) 
 
-The overarching goal of this Focused Investigatory Center (FIC) is to develop high-order numerical methods and scientific machine learning techniques that will be applied to the modeling and interpretation of plasmas of fluid and fluid-adjacent regimes, with a particular emphasis on turbulence in magnetized plasmas and radiative magnetic reconnection - two areas of fundamental interest to the Department of Energy, and proxies for a range of plasma phenomena applicable to high energy density physics experiments and fusion energy such as Z pinches.
-The numerical methods developed will include high-order, positivity-preserving finite difference, finite volume, and discontinuous Galerkin methods for extended magnetohydrodynamics, equipped with novel implicit/semiimplicit time-stepping methods. The scientific machine learning methods we develop will be designed to address the multiscale nature of the targeted plasma applications and will focus on preserving physical structures for enforcing model consistency, extending model reduction techniques to reduce the computational cost in large-scale fluid simulations, and the development of a subgrid model for magnetized turbulence  
+The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is motivated by the need to develop accurate long-term modeling of plasma systems for fusion energy and national security that are suitable for optimization and uncertainty quantification at the engineering scale.  Led by Michigan State University and Los Alamos National Laboratory, CHaRMNET brings together national leaders from five universities and four DOE national labs in the mathematical modeling of plasmas.  The center seeks to build a first-of-its-kind _holistic_ approach that will exploit structure within models to mitigate the curse of dimensionality and to bridge a wide range of length and time scales in plasma science. The curse of dimensionality is a critical challenge that is pervasive throughout computational science and refers to the observation that the resources needed to solve a problem on a computer scale exponentially with the dimension of the problem.  Fundamental plasma models are seven-dimensional and are presently computationally intractable (with existing mathematical methods and computational resources) to drive optimization and uncertainty quantification at the engineering scale of plasma systems.  
 
 </div><div class="col-md-6 news-table" markdown="1">
 
 ## Highlights
 
 
-* High-order Methods for Plasma Turbulence
-* Numerical methods enabling high order multiphysics plasma simulations.
-* Scientific Machine Learning methods that can incorporate information from multiple plasma regimes in a physically-consistent manner
-* Robust sub-grid closures for extended MHD. 
+* A synergistic theoretical and data-driven approach to hierarchical modeling, including a wide range of surrogates.
+* Next-generation multi-resolution, mixed-model algorithms that provide a self-adaptive structure in terms of the methods and the models.
+* Structure and asymptotic preserving algorithms that enforce model consistency throughout the model hierarchy. 
 
 
 ## News
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
-Aug 26, 2025        | HighZ PIs attend 2025 PSAAP-FIC kick-off meeting at DC. 
+Jul 13, 2025      | CHaRMNET team member Jing-Mei Qiu is invited to give Plenary talk at [ICOSAHOM 2025](https://icosahom2025.org/speakers.html).
+Jul 03, 2025      | CHaRMNET funded work, titled "[Defining Foundation Models for Computational Science: A Call for Clarity and Rigor](https://arxiv.org/pdf/2505.22904)" was recently featured in a [podcast episode](https://hodgesj.substack.com/p/podcast-defining-foundation-models). 
+Mar 27, 2025      | CHaRMNET co-director Luis Chacon was named a [2025 SIAM Fellow](https://www.siam.org/publications/siam-news/articles/siam-announces-2025-class-of-fellows/).
+Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
 
 
 
 
-## Three HighZ-FIC partner institutions
+## Nine CHaRMNET partner institutions
 
 &nbsp;
 
@@ -35,11 +36,31 @@ Aug 26, 2025        | HighZ PIs attend 2025 PSAAP-FIC kick-off meeting at DC.
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
 <div class="col-xs-6 col-md-6" style="width:27%;padding:0"><a href="http://www.msu.edu"><img src="img/logos/MSU.png" alt="MSU logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:42%;padding:0"><a href="https://www.gatech.edu/"><img src="img/logos/GeorgiaTech.png" alt="LANL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:42%;padding:0"><a href="http://www.lanl.gov"><img src="img/logos/LANL_2.png" alt="LANL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:18%;padding:0"><a href="https://www.brown.edu/"><img src="img/logos/Brown.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:18%;padding:0"><a href="http://www.uw.edu"><img src="img/logos/Washington.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 &nbsp;
+
+<div class="row">
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.colorado.edu"><img src="img/logos/UCBoulder.png" alt="UCB logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" alt="UDEL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:37%;padding:0"><a href="http://www.ornl.gov"><img src="img/logos/ORNL.png" alt="UMASS logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+</div>
+
+&nbsp;
+
+<div class="row">
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="http://www.sandia.gov"><img src="img/logos/SNL.png" alt="SNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:40%;padding:0"><a href="http://www.llnl.gov"><img src="img/logos/LLNL_2.webp" alt="LLNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:17%;padding:0"><a href="http://www.umassd.edu"><img src="img/logos/UMASS.png" alt="UMASS logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+</div>
 
 </div><div class="col-md-12 bottom"></div>
