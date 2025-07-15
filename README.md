@@ -9,7 +9,6 @@ To make changes to the website you will need an install of Python version >= 3.6
   * `pip install --upgrade --user Markdown==3.0`
   * `pip install --upgrade --user PyYAML`
   * `pip install --upgrade --user mkdocs-exclude-search`
-  * `pip install --upgrade --user mkdocs-bibtex`
   * `pip install --upgrade --user mkdocs-macros-plugin`
   * `pip install --upgrade --user "jinja2<3.1.0"`
 - or use conda (test it on 10/09/22; python3.10 may not work)
@@ -19,7 +18,6 @@ To make changes to the website you will need an install of Python version >= 3.6
   * `conda install -c conda-forge pyyaml`
   * `conda install -c conda-forge markdown==3.1.1`
   * `conda install -c conda-forge mkdocs-macros-plugin`
-  * `pip install --upgrade --user mkdocs-bibtex`
   * `pip install --upgrade --user mkdocs-exclude-search`
   * `conda install -c anaconda jinja2==3.0.3`
 - newer versions may not generate correct front page (to see the installed version, use `pip show mkdocs`)

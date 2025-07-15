@@ -13,7 +13,6 @@ markdown_extensions:
 
 nav:
 - Home: index.md
-##- News: news.md
 - Motivation: mission.md
 - Algorithms:
   - 'Multi-Scale Models': cont-fmr.md
@@ -25,7 +24,6 @@ nav:
 - Opening: opening.md
 - News: news.md
 - About: about.md
-#- Opening: opening.md
 
 theme:
   name: mkdocs  # required. Can be anything as long as custom_dir is set correctly below
@@ -40,8 +38,6 @@ plugins:
   - search
   - macros:
       include_dir: "src/"
-  - bibtex:
-      bib_file: "src/refs.bib"
   - exclude-search:
       exclude:
         # List of pages that will not be searched
