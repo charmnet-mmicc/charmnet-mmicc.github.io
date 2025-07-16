@@ -4,17 +4,16 @@
 
 # Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (CHaRMNET) 
 
-The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is motivated by the need to develop accurate long-term modeling of plasma systems for fusion energy and national security that are suitable for optimization and uncertainty quantification at the engineering scale.  Led by Michigan State University and Los Alamos National Laboratory, CHaRMNET brings together national leaders from five universities and four DOE national labs in the mathematical modeling of plasmas.  The center seeks to build a first-of-its-kind _holistic_ approach that will exploit structure within models to mitigate the curse of dimensionality and to bridge a wide range of length and time scales in plasma science. The curse of dimensionality is a critical challenge that is pervasive throughout computational science and refers to the observation that the resources needed to solve a problem on a computer scale exponentially with the dimension of the problem.  Fundamental plasma models are seven-dimensional and are presently computationally intractable (with existing mathematical methods and computational resources) to drive optimization and uncertainty quantification at the engineering scale of plasma systems.  
+The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is motivated by the need to develop accurate long-term modeling of plasma systems for fusion energy and national security that are suitable for optimization and uncertainty quantification at the engineering scale.  Led by Michigan State University and Los Alamos National Laboratory, CHaRMNET brings together national leaders from seven universities and four DOE national labs in the mathematical modeling of plasmas.  The center seeks to build a first-of-its-kind _holistic_ approach that will exploit structure within models to mitigate the curse of dimensionality and to bridge a wide range of length and time scales in plasma science. The curse of dimensionality is a critical challenge that is pervasive throughout computational science and refers to the observation that the resources needed to solve a problem on a computer scale exponentially with the dimension of the problem.  Fundamental plasma models are seven-dimensional and are presently computationally intractable (with existing mathematical methods and computational resources) to drive optimization and uncertainty quantification at the engineering scale of plasma systems.  
 
-</div><div class="col-md-6 news-table" markdown="1">
 
 ## Highlights
-
 
 * A synergistic theoretical and data-driven approach to hierarchical modeling, including a wide range of surrogates.
 * Next-generation multi-resolution, mixed-model algorithms that provide a self-adaptive structure in terms of the methods and the models.
 * Structure and asymptotic preserving algorithms that enforce model consistency throughout the model hierarchy. 
 
+</div><div class="col-md-6 news-table" markdown="1">
 
 ## News
 
@@ -26,9 +25,10 @@ Mar 27, 2025      | CHaRMNET co-director Luis Chacon was named a [2025 SIAM Fell
 Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
 
 
+&nbsp;
 
 
-## Nine CHaRMNET partner institutions
+## Eleven CHaRMNET partner institutions
 
 &nbsp;
 
@@ -62,5 +62,16 @@ Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
 <div class="col-xs-6 col-md-6" style="width:17%;padding:0"><a href="http://www.umassd.edu"><img src="img/logos/UMASS.png" alt="UMASS logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
+
+&nbsp;
+
+<div class="row">
+<div class="col-xs-6 col-md-6" style="width:10%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="https://www.gatech.edu/"><img src="img/logos/GT_logo.png" alt="GT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="http://www.llnl.gov"><img src="img/logos/ut.png" alt="LLNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+</div>
+
+
 
 </div><div class="col-md-12 bottom"></div>
