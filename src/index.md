@@ -45,7 +45,7 @@ Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary
 
 <div class="row">
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.colorado.edu"><img src="img/logos/UCBoulder.png" alt="UCB logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.colorado.edu"><img src="img/logos/UCBoulder.png" alt="CU logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
 <div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" alt="UDEL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
@@ -69,7 +69,7 @@ Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary
 <div class="col-xs-6 col-md-6" style="width:10%;padding:0"></div>
 <div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="https://www.gatech.edu/"><img src="img/logos/GT_logo.png" alt="GT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="http://www.llnl.gov"><img src="img/logos/ut.png" alt="LLNL logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="https://www.utexas.edu/"><img src="img/logos/ut.png" alt="UT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 
