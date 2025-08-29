@@ -20,6 +20,7 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
+Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
 Jul 13, 2025      | CHaRMNET team member Jing-Mei Qiu is invited to give Plenary talk at [ICOSAHOM 2025](https://icosahom2025.org/speakers.html).
 Jul 03, 2025      | CHaRMNET funded work, titled "[Defining Foundation Models for Computational Science: A Call for Clarity and Rigor](https://arxiv.org/pdf/2505.22904)" was recently featured in a [podcast episode](https://hodgesj.substack.com/p/podcast-defining-foundation-models). 
 Mar 27, 2025      | CHaRMNET co-director Luis Chacon was named a [2025 SIAM Fellow](https://www.siam.org/publications/siam-news/articles/siam-announces-2025-class-of-fellows/).
