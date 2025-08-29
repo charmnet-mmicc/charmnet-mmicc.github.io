@@ -2,12 +2,15 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+=======
 Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
+Aug 13, 2025      | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program). He talked about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics".
+>>>>>>> 7c95bda614d390561771e58ba76e8d41b9fc3ff6
 Jul 13, 2025      | CHaRMNET team member Jing-Mei Qiu is invited to give Plenary talk at [ICOSAHOM 2025](https://icosahom2025.org/speakers.html). 
 Jul 03, 2025      | CHaRMNET funded work, titled "[Defining Foundation Models for Computational Science: A Call for Clarity and Rigor](https://arxiv.org/pdf/2505.22904)" was recently featured in a [podcast episode](https://hodgesj.substack.com/p/podcast-defining-foundation-models). 
 Mar 27, 2025      | CHaRMNET co-director Luis Chacon was named a [2025 SIAM Fellow](https://www.siam.org/publications/siam-news/articles/siam-announces-2025-class-of-fellows/) for his seminal contributions to scalable, multiscale fluid, kinetic, and hybrid algorithms, enabling breakthrough simulations of magnetic and inertial fusion plasmas.
-Jan 06, 2025      | CHaRMNET team member Yingda Cheng is invited to give Plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
-Jan 06, 2025      | CHaRMNET team member Sigal Gottlieb will give Invited Presentations at [SIAM CSE 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/program/invited-presentations/). 
+Jan 06, 2025      | CHaRMNET team member Yingda Cheng was invited to give a plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
+Jan 06, 2025      | CHaRMNET team member Sigal Gottlieb was invited to give a plenary talk at [SIAM CSE 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/program/invited-presentations/). 
 Oct 01, 2024      | The CHaRMNET funded work, co-authored by CHaRMNET members, Daniel Messenger (Postdoc fellow at LANL), April Tran (Graduate School at CU Boulder)  and Prof. David Bortz (CU Boulder), titled "[The Weak Form is Stronger Than You Think](https://www.siam.org/publications/siam-news/articles/the-weak-form-is-stronger-than-you-think/)" was selected on the front page of SIAM NEWS, Volume 57, Issue 08, Oct 2024. 
 Aug 20, 2024      | Qi Tang starts a new position in the School of Computational Science and Engineering (CSE) at Georgia Institute of Technology as an Assistant Professor. He will remain a part of the CHaRMNET team. Congratulations!
 May 01, 2024      | Dan Messenger (CU Boulder) is selected as a Director's Postdoctoral Fellow at LANL. Dan will work with Marc Klasky and Luis Chacon on the intersection of dynamical systems, data science, and plasma physics. He will remain a part of the CHaRMNET team. Congratulations!
