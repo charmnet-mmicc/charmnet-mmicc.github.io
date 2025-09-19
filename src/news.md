@@ -2,6 +2,7 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+Sep 15, 2025      | Founded by CHaRMNET Director Andrew Christlieb, the Department of Computational Mathematics, Science and Engineering (CMSE) proudly celebrates its 10th anniversary of advancing interdisciplinary research and education at MSU. 
 Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
 Aug 13, 2025      | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program). He talked about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics".
 Jul 13, 2025      | CHaRMNET team member Jing-Mei Qiu is invited to give Plenary talk at [ICOSAHOM 2025](https://icosahom2025.org/speakers.html). 
