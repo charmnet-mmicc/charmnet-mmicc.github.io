@@ -6,7 +6,7 @@ Our Center is supported by the Advanced Scientific Computing Research (ASCR) pro
 
 ## Our Team 
 
-{% set members = ['A_Christlieb', 'L_Chacon', 'S_Becker', 'D_Bortz', 'J_Burby', 'Y_Cheng', 'Y_Choi', 
+{% set members = ['A_Christlieb', 'L_Chacon', 'S_Becker', 'D_Bortz', 'J_Burby', 'O_Burkovsha', 'Y_Cheng', 'Y_Choi', 
 'S_Gottlieb', 'C_Hauck', 'T_Haut', 'J_Hittinger', 'J_Hu', 'J_Jakeman', 'H_Lei','D_Messenger', 
 'B_Oshea', 'J_Qiu', 'L_Ricketson', 'S_Schotthoefer', 'W_Taitano', 'Q_Tang', 'P_Tranquilli', 'T_Wildey'] %}
 
