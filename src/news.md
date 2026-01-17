@@ -2,6 +2,7 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+Jan 14, 2026      | Congratulations to team members William Taitano (LANL) and Qi Tang (Georgia Tech) on being selected for the 2025 DOE Early Career Research Program (ECRP). Both were selected through ASCR’s Applied Mathematics Program. For more details, see [here](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=8bcd3025-3746-4bc4-9953-565114ec625f&rtc=24&PRoleId=10&flg=1) and [here](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=a756f612-3409-44b8-89ea-7421bf0840e5&rtc=24&PRoleId=10).
 Sep 15, 2025      | Founded by CHaRMNET Director Andrew Christlieb, the Department of Computational Mathematics, Science and Engineering (CMSE) proudly celebrates its 10th anniversary of advancing interdisciplinary research and education at MSU. 
 Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
 Aug 13, 2025      | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program). He talked about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics".
