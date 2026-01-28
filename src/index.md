@@ -19,7 +19,10 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
-Jan 28, 2026      | Two CHaRMNET team members, Dr. Qi Tang and Dr. William Tsubasa-Tsutsui Taitano, are awarded the U.S. Department of Energy [Early Career Research Program for FY 2025](https://science.osti.gov/-/media/early-career/pdf/1ECRP-PubAbstracts-FY2025.pdf). 
+<<<<<<< HEAD
+=======
+Jan 14, 2026      | Congratulations to team members William Taitano (LANL) and Qi Tang (Georgia Tech) on being selected for the 2025 DOE Early Career Research Program (ECRP).
+>>>>>>> e7352cc6403b6cab56259b80e69fa99fec1f2e1a
 Sep 15, 2025      | CMSE department, founded by CHaRMNET director Andrew Christlieb, [celebrates 10 years of innovation](https://engineering.msu.edu/news-events/news/2025/09/15/cmse-celebrates-10th-anniversary). 
 Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
 Aug 13, 2025      | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program).
