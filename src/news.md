@@ -2,6 +2,7 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+Jan 28, 2026      | Two CHaRMNET team members, Dr. Qi Tang and Dr. William Tsubasa-Tsutsui Taitano, are awarded the U.S. Department of Energy [Early Career Research Program for FY 2025](https://science.osti.gov/-/media/early-career/pdf/1ECRP-PubAbstracts-FY2025.pdf). 
 Sep 15, 2025      | Founded by CHaRMNET Director Andrew Christlieb, the Department of Computational Mathematics, Science and Engineering (CMSE) proudly celebrates its 10th anniversary of advancing interdisciplinary research and education at MSU. 
 Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
 Aug 13, 2025      | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program). He talked about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics".
