@@ -5,8 +5,18 @@
 
 ## Publication List
 
-## 2025
+## 2026
+* P.-H. TSAI, S. W. CHUNG, D. GHOSH, J. LOFFELD, Y. CHOI and J. L. BELOF, Local reduced-order modeling for electrostatic plasmas by physics-informed solution manifold decomposition, Computer Physics Communications, 322 (2026), pp. 110039. DOI: [10.1016/j.cpc.2026.110039](https://www.sciencedirect.com/science/article/pii/S0010465526000214.)
+* W. A. SANDS, J.-M. QIU, D. HAYES and N. ZHENG, An adaptive-rank approach with greedy sampling for multi-scale BGK equations, Journal of Computational Physics, 547 (2026), pp. 114523. DOI: [10.1016/j.jcp.2025.114523](https://www.sciencedirect.com/science/article/pii/S0021999125008058.)
 * S. GOTTLIEB and Z. J. GRANT, A review of high order strong stability preserving two-derivative explicit, implicit, and IMEX methods, Applied Mathematical Modelling, 149 (2026), pp. 116270. DOI: [10.1016/j.apm.2025.116270](https://www.sciencedirect.com/science/article/pii/S0307904X25003452.)
+
+## 2025
+* P. TRANQUILLI, L. RICKETSON, T. HAUT and J. HITTINGER, Stage-local partitioned two-step runge-kutta methods for large systems of ordinary differential equations, BIT Numerical Mathematics, 65 (2025), pp. 49. DOI: [10.1007/s10543-025-01090-9](https://doi.org/10.1007/s10543-025-01090-9.)
+* Y. ZHAO, J. BURBY, A. CHRISTLIEB and H. LEI, Data-Driven Construction of a Generalized Kinetic Collision Operator from Molecular Dynamics, Physical Review Letters, 135 (2025), pp. 185101. DOI: [10.1103/gml7-f2ng](https://link.aps.org/doi/10.1103/gml7-f2ng.)
+* D. A. SERINO, Q. TANG, X.-Z. TANG, T. V. KOLEV and K. LIPNIKOV, An Adaptive Newton-Based Free-Boundary Grad–Shafranov Solver, SIAM Journal on Scientific Computing, 0 (2025), pp. S364-S385. DOI: [10.1137/24m1674108](https://epubs.siam.org/doi/abs/10.1137/24M1674108.)
+* W. ANDERSON, S. W. CHUNG and Y. CHOI, Sequential decoder training for improved latent space dynamics identification, Machine Learning and the Physical Sciences Workshop, [NeurIPS_ML4PS_2025 (2025).](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_45.pdf)
+* E. G. DRIMALAS, F. FRASCHETTI, C. HUANG and Q. TANG, Symplectic neural network and its application to charged particle dynamics in electromagnetic fields, Physics of Plasmas, 32 (2025). DOI: [10.1063/5.0283551](https://doi.org/10.1063/5.0283551.)
+* V. ILIN, J. HU and Z. WANG, Transport based particle methods for the Fokker-Planck-Landau equation, Communications in Mathematical Sciences, 23 (2025), pp. 1763-1788. DOI: [10.4310/CMS.250802023039](https://intlpress.com/JDetail/1951350643972681729)
 * Y. KIM, Q. KONG, Y. CHOI, A. PITARKA and B. YOO, Real-time reconstruction of ground motion during small magnitude earthquakes: A pilot study, Soil Dynamics and Earthquake Engineering, 199 (2025), pp. 109707. DOI: [10.1016/j.soildyn.2025.109707](https://www.sciencedirect.com/science/article/pii/S0267726125005007) 
 * L. EINKEMMER, K. KORMANN, J. KUSCH, R. G. MCCLARREN and J.-M. QIU, A review of low-rank methods for time-dependent kinetic simulations, Journal of Computational Physics, 538 (2025), pp. 114191. DOI: [10.1016/j.jcp.2025.114191](https://www.sciencedirect.com/science/article/pii/S0021999125004747.)
 * L. EINKEMMER, J. HU and S. ZHANG, Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation, Journal of Computational Physics, 538 (2025), pp. 114112. DOI: [10.1016/j.jcp.2025.114112](https://www.sciencedirect.com/science/article/pii/S002199912500395X.)
