@@ -74,10 +74,13 @@ Jan 06, 2025      | CHaRMNET team member Sigal Gottlieb was invited to give a pl
 &nbsp;
 
 <div class="row">
-<div class="col-xs-6 col-md-6" style="width:10%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="https://www.gatech.edu/"><img src="img/logos/GT_logo.png" alt="GT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:35%;padding:0"><a href="https://www.utexas.edu/"><img src="img/logos/ut.png" alt="UT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.gatech.edu/"><img src="img/logos/GT_logo.png" alt="GT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.utexas.edu/"><img src="img/logos/ut.png" alt="UT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+</div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.vt.edu/"><img src="img/logos/VT.png" alt="VT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 
