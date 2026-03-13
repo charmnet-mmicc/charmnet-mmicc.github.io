@@ -76,7 +76,7 @@ Jan 06, 2025      | CHaRMNET team member Sigal Gottlieb was invited to give a pl
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
 <div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.utexas.edu/"><img src="img/logos/ut.png" alt="UT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:30%;padding:0"><a href="https://www.vt.edu/"><img src="img/logos/VT.png" alt="VT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:20%;padding:0"><a href="https://www.vt.edu/"><img src="img/logos/VT.png" alt="VT logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 
