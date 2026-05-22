@@ -19,6 +19,7 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
+May 22, 2026      | Congratulations to Hamad El Kahza, on receiving the [Mark Kac Postdoctoral Fellowship at LANL](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf). 
 Apr 22, 2026      | Congratulations to CHaRMNET team member, Bill Sands, on receiving the [Nicholas C. Metropolis Postdoctoral Fellowship](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf) at Los Alamos National Laboratory. 
 Apr 08, 2026      | Congratulations to April Tran, CHaRMNET supported graduate student, on being selected for the [Wilkinson fellowship at Argonne](https://www.anl.gov/mcs/wilkinson-postdoctoral-fellowship-in-scientific-computing).
 Jan 14, 2026      | Congratulations to team members William Taitano (LANL) and Qi Tang (Georgia Tech) on being selected for the 2025 DOE Early Career Research Program (ECRP).
@@ -26,7 +27,6 @@ Sep 15, 2025      | CMSE department, founded by CHaRMNET director Andrew Christl
 Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
 Aug 13, 2025      | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program).
 Jul 13, 2025      | CHaRMNET team member Jing-Mei Qiu is invited to give Plenary talk at [ICOSAHOM 2025](https://icosahom2025.org/speakers.html).
-Jul 03, 2025      | CHaRMNET funded work, titled "[Defining Foundation Models for Computational Science: A Call for Clarity and Rigor](https://arxiv.org/pdf/2505.22904)" was recently featured in a [podcast episode](https://hodgesj.substack.com/p/podcast-defining-foundation-models). 
 
 
 
