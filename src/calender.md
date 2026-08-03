@@ -1,9 +1,27 @@
 # Calendar
 
+## 2026
+<img width=400px, style="margin:-20px"> | |
+--------------------|-----------------------------------------------------------------
+Jul 20, 2026 | Multiple CHaRMNET team members attended and presented at the ASCR PI meeting at DC. 
+Jul 06, 2026 | CHaRMNET Team members organized multiple minisymposiums at SIAM AN 26.  
+May 25, 2026 | Dr. Sigal Gottlieb was invited to give an invited talk on “Strong stability preserving time-evolution of hyperbolic PDEs: bounds and barriers” at Hyperbolic Problems: Theory, Numerics and Applications (HYP2026), University of Stuttgart, Germany. 
+
+## 2025
+<img width=400px, style="margin:-20px"> | |
+--------------------|-----------------------------------------------------------------
+Dec 01, 2025 | CHaRMNET held 2025 three-day Annual Meeting at University of Washington.  
+Aug 29, 2025 | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
+Aug 13, 2025 | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program). He talked about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics".
+Jul 13, 2025 | CHaRMNET team member Jing-Mei Qiu is invited to give Plenary talk at [ICOSAHOM 2025](https://icosahom2025.org/speakers.html). 
+Jan 06, 2025 | CHaRMNET team member Yingda Cheng was invited to give a plenary talk at [SIAM SEAS 2025](https://math.utk.edu/siam-seas/plenary-speakers/).
+Jan 06, 2025 | CHaRMNET team member Sigal Gottlieb was invited to give a plenary talk at [SIAM CSE 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/program/invited-presentations/).
+
 ## 2024
 <img width=400px, style="margin:-20px"> | |
 --------------------|-----------------------------------------------------------------
 Dec 10, 2024 | CHaRMNET team member Dr. Youngsoo Choi would attend Machine Learning and the Physical Sciences Workshop, NeurIPS 2024 and give talk on "Physics-informed reduced order model with conditional neural fields".
+Dec 03. 2024 | CHaRMNET held a two-day annual meeting at Virgina Tech. 
 Oct 22, 2024 | CHaRMNET team member Dr. Qi Tang gave an invited talk at MFEM Community Workshop 2024 about "An adaptive Newton-based free-boundary Grad–Shafranov solver".
 Oct 09, 2024 | CHaRMNET team member Dr. Youngsoo Choi organzied the Minisymposium at 1st SIAM Northern and Central California Sectional Conference (NCC24) and gave a talk titled "Train Small, Model Big: A Novel Data-Driven Scaleup for Large-Scale Physics Simulations". 
 Oct 01, 2024 | CHaRMNET team member Dr. Jingwei Hu, was invited to give a talk titled "Structure-Preserving Dynamical Low-Rank Methods for Kinetic Equations of Plasmas"at Georgia Institute of Technology, School of CSE Seminar Series.
