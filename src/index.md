@@ -19,6 +19,7 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
+Aug 03, 2026      | CHaRMNET team member, Dr. David Bortz, has been awarded DoE Genesis Phase I grant. 
 May 22, 2026      | Congratulations to Hamad El Kahza, on receiving the [Mark Kac Postdoctoral Fellowship at LANL](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf). 
 Apr 22, 2026      | Congratulations to CHaRMNET team member, Bill Sands, on receiving the [Nicholas C. Metropolis Postdoctoral Fellowship](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf) at Los Alamos National Laboratory. 
 Apr 08, 2026      | Congratulations to April Tran, CHaRMNET supported graduate student, on being selected for the [Wilkinson fellowship at Argonne](https://www.anl.gov/mcs/wilkinson-postdoctoral-fellowship-in-scientific-computing).

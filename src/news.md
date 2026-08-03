@@ -2,6 +2,7 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+Aug 03, 2026      | CHaRMNET team member Dr. David Bortz led Phase I project, "Weak-Form Agentic Digital Twins for Real-Time Control of Magnetically Confined Fusion Systems Under Sparse Observation" has been awarded [DoE Genesis grant](https://www.colorado.edu/amath/2026/07/30/david-bortz-awarded-department-energy-genesis-mission-grant). 
 May 22, 2026      | Congratulations to Hamad El Kahza, on receiving the [Mark Kac Postdoctoral Fellowship at LANL](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf). 
 Apr 22, 2026      | Congratulations to CHaRMNET team member, Bill Sands, on receiving the [Nicholas C. Metropolis Postdoctoral Fellowship](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf) at Los Alamos National Laboratory. 
 Apr 08, 2026      | Congratulations to April Tran, CHaRMNET supported graduate student, on being selected for the [Wilkinson fellowship at Argonne](https://www.anl.gov/mcs/wilkinson-postdoctoral-fellowship-in-scientific-computing). Wilkinson fellowship is a high competitive award for early-career scientists in state-of-the-art research in scientific computing and only offered every other year.
