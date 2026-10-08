@@ -2,6 +2,7 @@
 
 <img width=400px, style="margin:-90px"> | |
 ------------------|-----------------------------------------------------------------
+Oct 08, 2026      | Congratulations to CHaRMNET team member, Joshua Burby, on receiving the [2026 DoE Early Career Awards](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/Awards-List-Spreadsheet-ECRP-FY26.pdf) for this work on "Sidestepping Grad's Conjecture". 
 Aug 03, 2026      | CHaRMNET team member Dr. David Bortz led Phase I project, "Weak-Form Agentic Digital Twins for Real-Time Control of Magnetically Confined Fusion Systems Under Sparse Observation" has been awarded [DoE Genesis grant](https://www.colorado.edu/amath/2026/07/30/david-bortz-awarded-department-energy-genesis-mission-grant). 
 May 22, 2026      | Congratulations to Hamad El Kahza, on receiving the [Mark Kac Postdoctoral Fellowship at LANL](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf). 
 Apr 22, 2026      | Congratulations to CHaRMNET team member, Bill Sands, on receiving the [Nicholas C. Metropolis Postdoctoral Fellowship](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf) at Los Alamos National Laboratory. 

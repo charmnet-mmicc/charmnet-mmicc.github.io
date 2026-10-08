@@ -19,6 +19,7 @@ The CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC) is m
 
 Date                | Message
 ------------------  | -----------------------------------------------------------------
+Oct 08, 2026      | Congratulations to CHaRMNET team member, Joshua Burby, on receiving the [2026 DoE Early Career Awards](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/Awards-List-Spreadsheet-ECRP-FY26.pdf). 
 Aug 03, 2026      | CHaRMNET team member, Dr. David Bortz, has been awarded DoE Genesis Phase I grant. 
 May 22, 2026      | Congratulations to Hamad El Kahza, on receiving the [Mark Kac Postdoctoral Fellowship at LANL](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf). 
 Apr 22, 2026      | Congratulations to CHaRMNET team member, Bill Sands, on receiving the [Nicholas C. Metropolis Postdoctoral Fellowship](https://cdn.lanl.gov/files/postdoc-program-brochure-2023_357ea.pdf) at Los Alamos National Laboratory. 
@@ -26,8 +27,6 @@ Apr 08, 2026      | Congratulations to April Tran, CHaRMNET supported graduate s
 Jan 14, 2026      | Congratulations to team members William Taitano (LANL) and Qi Tang (Georgia Tech) on being selected for the 2025 DOE Early Career Research Program (ECRP).
 Sep 15, 2025      | CMSE department, founded by CHaRMNET director Andrew Christlieb, [celebrates 10 years of innovation](https://engineering.msu.edu/news-events/news/2025/09/15/cmse-celebrates-10th-anniversary). 
 Aug 29, 2025      | CHaRMNET director Andrew Christlieb joined IMSI Carry the Two podcast, talking about [Fusion Energy](https://www.imsi.institute/podcast/emerging-technologies-episode-3-fusion-energy/).
-Aug 13, 2025      | CHaRMNET team member Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program).
-Jul 13, 2025      | CHaRMNET team member Jing-Mei Qiu is invited to give Plenary talk at [ICOSAHOM 2025](https://icosahom2025.org/speakers.html).
 
 
 
